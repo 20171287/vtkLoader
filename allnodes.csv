@@ -1,0 +1,1759 @@
+id,category,room,name,description,x,y,z
+0,classroom,102-101,classroom,-,2460,248,1
+1,classroom,102-102,classroom,-,2318,290,1
+2,classroom,102-s103,classroom,-,2244,259,1
+3,classroom,102-e101,classroom,-,2206,318,1
+4,classroom,104-e206,classroom,-,2179,378,1
+5,classroom,104-e102,classroom,-,2143,599,1
+6,classroom,104-e103,classroom,-,1993,786,1
+7,classroom,106-e205,classroom,-,1859,805,1
+8,classroom,106-e104,classroom,-,1771,887,1
+9,classroom,106-t101,classroom,-,1689,964,1
+10,classroom,106-t102,classroom,-,1738,1031,1
+11,elevator,-,customer elevator 102,-,2418,278,1
+12,toilet,-,102 1st floor toilet,-,2325,242,1
+13,stair,-,102 stair 1,-,2313,223,1
+14,sbox,-,Relief Goods Storage,-,2381,228,1
+15,etc,-,jungbinggi,-,2126,493,1
+16,stair,-,104 stair 1,-,2163,516,1
+17,toilet,-,104 1st floor toilet,-,2070,690,1
+18,stair,-,center stair,-,2059,670,1
+19,elevator,-,customer elevator 104,-,2047,688,1
+20,addto,-,addtopaper,-,1894,802,1
+21,stair,-,106 stair 1,-,1921,824,1
+22,toilet,-,106 1st floor toilet,-,1692,1046,1
+23,etc,-,restroom,-,1667,1108,1
+24,stair,-,106 stair 2,-,1671,1043,1
+25,door,-,102 door 1,-,2337,167,1
+26,door,-,102 door 2,-,2211,215,1
+27,door,-,1st 102104 door,-,2026,449,1
+28,door,-,1st 104106 door,-,1819,710,1
+29,door,-,106 door 1,-,1646,954,1
+30,door,-,106 door 2,-,1621,1075,1
+31,etc,102-201,-,-,2433,281,2
+32,etc,102-201-1,Women's Lounge,-,2433,281,2
+33,etc,102-201-2,Korea Medical Docter,-,2433,281,2
+34,etc,102-201-3,-,-,2433,281,2
+35,office,102-201-4,UMCL,-,2433,281,2
+36,office,102-201-5,UMCL,-,2433,281,2
+37,etc,102-201-6,-,-,2433,281,2
+38,office,102-201-7,Associate Prof.,Jeongkon Seo,2433,281,2
+39,etc,102-201-8,Meeting Room of UCRF,-,2433,281,2
+40,office,102-201-9,Associate Prof.,Huyoung Jeong,2433,281,2
+41,office,102-201-10,Director of UCRF,Taejoo Shin,2433,281,2
+42,office,102-201-11,UCRF Administration Office,-,2433,281,2
+43,etc,102-202,storage room,-,2433,281,2
+44,office,102-203,UEAC,-,2433,281,2
+45,classroom,102-s204,classroom,-,2369,329,2
+46,classroom,102-s205,classroom,-,2329,312,2
+47,classroom,104-e206,classroom,-,2244,500,2
+48,classroom,106-e205,classroom,-,1954,855,2
+49,classroom,102-s206,classroom,-,2263,283,2
+50,classroom,102-s207,classroom,-,2309,215,2
+51,etc,102-s208,Counseling Room,-,2370,240,2
+52,office,102-s209,UMCL,-,2399,256,2
+53,classroom,102-e207,classroom,-,2293,357,2
+54,etc,102-e208,Conference Room,-,2338,379,2
+55,etc,104-e201,Student Affairs Team,-,2207,610,2
+56,etc,104-e202,Safety team,-,2061,792,2
+57,classroom,106-e204,classroom,-,1863,904,2
+58,etc,106-e203,Meeting Room,-,1895,945,2
+59,classroom,106-t201,classroom,-,1754,1108,2
+60,classroom,106-t202,classroom,-,1720,1065,2
+61,classroom,106-t203,classroom,-,1694,1025,2
+62,classroom,106-t204,classroom,-,1737,929,2
+63,classroom,106-t205,classroom,-,1778,991,2
+64,classroom,106-t206,classroom,-,1806,1027,2
+65,stair,-,102 stair 1,-,2273,230,2
+66,elevator,-,customer elevator 102,-,2358,276,2
+67,toilet,-,102 2nd floor toilet,-,2285,247,2
+68,sbox,-,safety box,-,2331,459,2
+69,cafe,-,pandorosi,-,2062,694,2
+70,stair,-,104 stair 1,-,2206,525,2
+71,stair,-,center stair,-,2050,618,2
+72,toilet,-,104 2nd floor toilet,-,2054,642,2
+73,elevator,-,customer elevator 104,-,2115,689,2
+74,sbox,-,safety box,-,2006,886,2
+75,stair,-,106 stair 1,-,1970,814,2
+76,office,106-e211-1,Inspection office,-,1918,927,2
+77,toilet,-,106 2nd floor toilet,-,1705,959,2
+78,elevator,-,customer elevator 106,-,1751,1028,2
+79,door,-,2nd 102104 door,-,2330,514,2
+80,door,-,2nd 104106 door,-,1986,943,2
+81,node,-,node1,-,2433,209,1
+82,node,-,node2,-,2338,187,1
+83,node,-,node3,-,2305,272,1
+84,node,-,node4,-,2193,235,1
+85,node,-,node5,-,2131,349,1
+86,node,-,node6,-,2075,468,1
+87,node,-,node7,-,1999,570,1
+88,node,-,node8,-,1941,661,1
+89,node,-,node9,-,1861,741,1
+90,node,-,node10,-,1744,834,1
+91,node,-,node11,-,1642,906,1
+92,node,-,node12,-,1713,1018,1
+93,node,-,node13,-,2379,254,2
+94,node,-,node14,-,2287,215,2
+95,node,-,node15,-,2355,312,2
+96,node,-,node16,-,2266,272,2
+97,node,-,node17,-,2312,398,2
+98,node,-,node18,-,2269,482,2
+99,node,-,node19,-,2179,606,2
+100,node,-,node20,-,2104,574,2
+101,node,-,node21,-,2049,760,2
+102,node,-,node22,-,1995,697,2
+103,node,-,node23,-,1946,887,2
+104,node,-,node24,-,1860,948,2
+105,node,-,node25,-,1786,1016,2
+106,node,-,node26,-,1731,1056,2
+107,node,-,node27,-,1727,936,2
+108,node,-,node28,-,1671,968,2
+109,office,102-301-1,Faculty Office,Soonmoon Jung,2088,217,3
+110,office,102-301-2,Faculty Office,-,2067,207,3
+111,office,102-301-3,Faculty Office,Taejoo Shin,2039,199,3
+112,office,102-301-4,Faculty Office,-,2014,190,3
+113,office,102-301-5,Faculty Office,-,2047,107,3
+114,office,102-301-6,Faculty Office,-,2073,114,3
+115,office,102-301-7,Faculty Office,Changwook Jeong,2096,121,3
+116,office,102-301-8,Faculty Office,-,2120,129,3
+117,office,102-301-9,Faculty Office,-,2144,142,3
+118,office,102-301-10,Faculty Office,-,2169,150,3
+119,office,102-301-11,Administrative office. Department of Chemistry,-,2062,165,3
+120,lab,102-302,General Chemistry Lab. 1,lab,2227,179,3
+121,shower,-,shower,-,2282,201,3
+122,lab,102-303,General Chemistry Lab. 2,lab,2333,218,3
+123,lab,102-304,General Chemistry Lab. 3,lab,2443,260,3
+124,shower,-,shower,-,2484,278,3
+125,lab,102-305-2,Synchrotron Utilization Advanced Materials Lab.,lab,2507,303,3
+126,lab,102-305-3,Semiconductor Interface Analysys & Enginerring Lab.,lab,2486,367,3
+127,shower,-,shower,-,2457,361,3
+128,etc,102-306,Experiment Preparation Room,-,2435,305,3
+129,lab,102-307-1,Changwook Jeong's Research Group,lab,2423,350,3
+130,lab,102-307-2,Network for Future Semiconductors,lab,2374,331,3
+131,lab,102-308,Joint Research Room,lab,2337,317,3
+132,lab,102-309,General Physics Lab. 1,lab,2251,289,3
+133,shower,-,shower,-,2196,269,3
+134,lab,102-310,General Physics Lab. 2,lab,2143,249,3
+135,lab,102-311,Graduate Student Office,-,2177,211,3
+136,elevator,-,elevator,-,2345,276,3
+137,ebox,-,emergency box,-,2375,266,3
+138,toilet,-,toilet,-,2267,243,3
+139,elevator,-,elevator,-,2244,243,3
+140,node,-,102-3-SW,-,2343,305,3
+141,node,-,102-3-SE,-,2370,246,3
+142,node,-,102-3-NW,-,2246,267,3
+143,node,-,102-3-NE,-,2266,205,3
+144,office,102-401-1,Faculty Office,Soohyun Kim,2088,217,4
+145,office,102-401-2,Faculty Office,Joonki Suh,2067,207,4
+146,office,102-401-3,Faculty Office,Taesik Yoon,2039,199,4
+147,office,102-401-4,Faculty Office,Hongsik Jeong,2014,190,4
+148,office,102-401-5,Faculty Office,Kisuk Lee,2047,107,4
+149,office,102-401-6,Faculty Office,Juyoung Kim,2073,114,4
+150,office,102-401-7,Faculty Office,Sungsoo Park,2096,121,4
+151,office,102-401-8,Faculty Office,Donghyeok Lim,2120,129,4
+152,office,102-401-9,Faculty Office,Junghwan Kim,2144,142,4
+153,office,102-401-10,Faculty Office,Feng Ding,2169,150,4
+154,etc,102-401-11,Meeting Room,-,2062,165,4
+155,lab,102-402,Future Materials & Devices Lab.,lab,2227,179,4
+156,shower,-,shower,-,2282,201,4
+157,lab,102-403,Semiconductor Nanotechnology Lab.,lab,2333,218,4
+158,lab,102-404,SE Lab.,lab,2443,260,4
+159,shower,-,shower,-,2484,278,4
+160,lab,102-405,MSE Lab.,lab,2507,303,4
+161,shower,-,shower,-,2457,361,4
+162,etc,102-406,SE Lounge,-,2435,305,4
+163,lab,102-407,Julich-UNIST Joing Leading Institute for Advanced Energy Research. JULIA,lab,2374,331,4
+164,lab,102-408,Graduate Student Office,-,2337,317,4
+165,lab,102-409,KIST-UNIST Ulsan-Center for convergent Materials,lab,2251,289,4
+166,shower,-,shower,-,2196,269,4
+167,lab,102-410,Nano Device Process Laboratory,lab,2143,249,4
+168,lab,102-411,Graduate Student Office,-,2177,211,4
+169,elevator,-,elevator,-,2345,276,4
+170,ebox,-,emergency box,-,2375,266,4
+171,toilet,-,toilet,-,2267,243,4
+172,elevator,-,elevator,-,2244,243,4
+173,node,-,102-4-SW,-,2343,305,4
+174,node,-,102-4-SE,-,2370,246,4
+175,node,-,102-4-NW,-,2246,267,4
+176,node,-,102-4-NE,-,2266,205,4
+177,etc,102-501-1,Faculty Lounge,-,2088,217,5
+178,office,102-501-3,Faculty Office,-,2039,199,5
+179,office,102-501-4,Faculty Office,Jungwoo Yoo,2014,190,5
+180,office,102-501-5,Faculty Office,Zonghoon Lee,2047,107,5
+181,office,102-501-6,Faculty Office,Soonyong Kwon,2073,114,5
+182,office,102-501-7,Faculty Office,Hyungjoon Shin,2096,121,5
+183,office,102-501-8,Faculty Office,Visiting Professor,2120,129,5
+184,lab,102-501-9,Graduate Student Office,-,2144,142,5
+185,office,102-501-10,Faculty Office,Kyoungjin Choi,2169,150,5
+186,etc,102-501-11,Meeting Room,-,2062,165,5
+187,lab,102-502,Energy Conversion Materials Lab.,lab,2227,179,5
+188,shower,-,shower,-,2282,201,5
+189,lab,102-503,Low-Dimensional Materials & Energy Conversion Lab.,lab,2333,218,5
+190,lab,102-504,Nano Spin Transport Lab.,lab,2443,260,5
+191,shower,-,shower,-,2484,278,5
+192,lab,102-505-1,Center for Future Semiconductor Technology,lab,2507,303,5
+193,lab,102-505-3,Nano Semiconductor Research Lab.,lab,2486,367,5
+194,shower,-,shower,-,2457,361,5
+195,lab,102-506,Graduate Student Office,-,2435,305,5
+196,lab,102-507,Atomic-Scale Electron Microscopy Lab.,lab,2374,331,5
+197,lab,102-508,Graduate Student Office,-,2337,317,5
+198,lab,102-509,Nanoscale Materials Science Lab.,lab,2251,289,5
+199,shower,-,shower,-,2196,269,5
+200,lab,102-510,Frontier. Innovative Nanomaterials & Devices (FIND) Lab.,lab,2143,249,5
+201,lab,102-511,Graduate Student Office,-,2177,211,5
+202,elevator,-,elevator,-,2345,276,5
+203,ebox,-,emergency box,-,2375,266,5
+204,toilet,-,toilet,-,2267,243,5
+205,elevator,-,elevator,-,2244,243,5
+206,node,-,102-5-SW,-,2343,305,5
+207,node,-,102-5-SE,-,2370,246,5
+208,node,-,102-5-NW,-,2246,267,5
+209,node,-,102-5-NE,-,2266,205,5
+210,office,102-601-1,Faculty Office,Chaenyung Cha,2088,217,6
+211,office,102-601-2,Faculty Office,Hanhee Cho,2067,207,6
+212,office,102-601-3,Faculty Office,Youngchul Jun,2039,199,6
+213,office,102-601-4,Faculty Office,Wook Jo,2014,190,6
+214,office,102-601-5,Faculty Office,Hyesung Park,2047,107,6
+215,office,102-601-6,Faculty Office,Jaesung Son,2073,114,6
+216,office,102-601-7,MSE Head Office,-,2096,121,6
+217,office,102-601-10,MSE. SE Admin. Office,-,2169,150,6
+218,etc,102-601-11,Meeting Room,-,2062,165,6
+219,lab,102-602,Sustainable Functional Ceramics Lab.,lab,2227,179,6
+220,shower,-,shower,-,2282,201,6
+221,lab,102-603,Optoelectronic Nanomaterials Enginerring Lab. (ONEL),lab,2333,218,6
+222,lab,102-604,Laboratory of Nanophotonics & Metamaterials Lab.,lab,2443,260,6
+223,shower,-,shower,-,2484,278,6
+224,lab,102-605-1,MSE Lab.,lab,2507,303,6
+225,lab,102-605-2,Graduate Student Office,-,2486,367,6
+226,shower,-,shower,-,2457,361,6
+227,lab,102-606,Graduate Student Office,-,2435,305,6
+228,lab,102-607,Nanomaterials Science and Engineering Lab.,lab,2374,331,6
+229,lab,102-608,Graduate Student Office,-,2337,317,6
+230,lab,102-609,Polymer Nanocomposites & Carbon Fiber Lab.,lab,2251,289,6
+231,shower,-,shower,-,2196,269,6
+232,lab,102-610,Integrative Biomaterials Design and Enginerring Lab.,lab,2143,249,6
+233,etc,102-611,Seminar Room,-,2177,211,6
+234,elevator,-,elevator,-,2345,276,6
+235,ebox,-,emergency box,-,2375,266,6
+236,toilet,-,toilet,-,2267,243,6
+237,elevator,-,elevator,-,2244,243,6
+238,node,-,102-6-SW,-,2343,305,6
+239,node,-,102-6-SE,-,2370,246,6
+240,node,-,102-6-NW,-,2246,267,6
+241,node,-,102-6-NE,-,2266,205,6
+242,office,102-701-1,Faculty Office,Moonkee Choi,2088,217,7
+243,office,102-701-2,Faculty Office,Jiyun Kim,2067,207,7
+244,office,102-701-3,Faculty Office,Seungho Cho,2039,199,7
+245,office,102-701-4,Faculty Office,Hangi Chae,2014,190,7
+246,etc,102-701-5,Faculty Lounge,-,2047,107,7
+247,etc,102-701-6,Archive,-,2073,114,7
+248,office,102-701-7,Faculty Office,Sukbin Lee,2096,121,7
+249,office,102-701-8,Faculty Office,Myounghoon Song,2120,129,7
+250,lab,102-701-9,Graduate Student Office,-,2144,142,7
+251,etc,102-701-10,MSE Student Council Office,-,2169,150,7
+252,etc,102-701-11,Meeting Room,-,2062,165,7
+253,lab,102-702,Multidimensional Structural Materials Lab.,lab,2227,179,7
+254,shower,-,shower,-,2282,201,7
+255,lab,102-703,Creative Laboratory for Advanced Spin Systems (CLASS),lab,2333,218,7
+256,lab,102-704,Organic Photonics & Optoelectronics Lab.,lab,2443,260,7
+257,shower,-,shower,-,2484,278,7
+258,lab,102-705-1,Graduate Student Office,-,2507,303,7
+259,lab,102-705-2,Metaloxide Synthesis Lab.,lab,2486,367,7
+260,lab,102-705-3,Material Intelligence Lab.,lab,2486,367,7
+261,shower,-,shower,-,2457,361,7
+262,lab,102-706,Graduate Student Office,-,2435,305,7
+263,lab,102-707,Robust Multifunctional Materials Lab.,lab,2423,350,7
+264,lab,102-708,Graduate Student Office,lab,2337,317,7
+265,lab,102-709,Nano/Bio Electronics Lab.,lab,2251,289,7
+266,shower,-,shower,-,2196,269,7
+267,lab,102-710,Metal Alloys Design (MADe) Lab.,lab,2143,249,7
+268,etc,102-711,Seminar Room,-,2177,211,7
+269,elevator,-,elevator,-,2345,276,7
+270,ebox,-,emergency box,-,2375,266,7
+271,toilet,-,toilet,-,2267,243,7
+272,elevator,-,elevator,-,2244,243,7
+273,node,-,102-7-SW,-,2343,305,7
+274,node,-,102-7-SE,-,2370,246,7
+275,node,-,102-7-NW,-,2246,267,7
+276,node,-,102-7-NE,-,2266,205,7
+277,elevator,-,customer elevator,-,2100,703,3
+278,office,104-301-1,Faculty Office,Dooyoung Jung,1874,584,3
+279,office,104-301-2,Faculty Office,-,1855,568,3
+280,office,104-301-3,Faculty Office,-,1833,554,3
+281,office,104-301-4,Faculty Office,-,1814,538,3
+282,office,104-301-5,Faculty Office,Gwanseob Shin,1865,471,3
+283,office,104-301-6,Faculty Office,Jaewook Han,1844,485,3
+284,office,104-301-7,Faculty Office,-,1905,502,3
+285,office,104-301-8,Faculty Office,-,1926,518,3
+286,office,104-301-9,Faculty Office,-,1946,533,3
+287,office,104-301-10,Faculty Office,-,1968,551,3
+288,office,104-301-11,Faculty Office,-,1872,500,3
+289,ebox,-,emergency box,-,2132,705,3
+290,shower,-,shower 1,-,2190,824,3
+291,shower,-,shower 2,-,2242,760,3
+292,shower,-,shower 3,-,1969,653,3
+293,shower,-,shower 4,-,2064,622,3
+294,toilet,-,3rd floor toilet,-,2036,656,3
+295,lab,104-302,"Perception, Action, and Learning Lab",-,1993,569,3
+296,etc,104-303,Frontier Energy Solution,-,2083,638,3
+297,etc,104-304,Seawater Resource Technology Center,-,2169,706,3
+298,lab,104-305,YK research group Lab,-,2237,768,3
+299,lab,104-306,Systems Biology and Machine Learning Lab,-,2194,744,3
+300,etc,104-307,Core Facility Room,-,2119,773,3
+301,etc,104-308,-,-,2094,752,3
+302,lab,104-309,Computer Lab,-,2035,710,3
+303,lab,104-310,Healthcare Research & Engineering Lab,-,1948,641,3
+304,lab,104-311,Graduate Student Office,-,1983,582,3
+305,elevator,-,customer elevator,-,2100,703,4
+306,office,104-401-1,Faculty Office,Donghyuk Kim,1874,584,4
+307,office,104-401-2,Faculty Office,Sungkuk Lee,1855,568,4
+308,office,104-401-3,Faculty Office,Yonghwan Kim,1833,554,4
+309,office,104-401-4,Faculty Office,Sunghoon Park,1814,538,4
+310,office,104-401-5,Faculty Office,Jungki Ryu,1865,471,4
+311,office,104-401-6,Faculty Office,Dongsuk Kim,1844,485,4
+312,office,104-401-7,Faculty Office,Seungmo Oh,1905,502,4
+313,etc,104-401-8,-,-,1926,518,4
+314,etc,104-401-9,-,-,1946,533,4
+315,office,104-401-10,ECHE Administrative Office,-,1968,551,4
+316,office,104-401-11,Researcher Administrative Office,-,1872,500,4
+317,ebox,-,emergency box,-,2132,705,4
+318,shower,-,shower 1,-,2190,824,4
+319,shower,-,shower 2,-,2242,760,4
+320,shower,-,shower 3,-,1969,653,4
+321,shower,-,shower 4,-,2064,622,4
+322,toilet,-,4th floor toilet,-,2036,656,4
+323,lab,104-402,Bioinspired Functional Materials Lab,-,1993,569,4
+324,lab,104-403-1,Graduate Student Office,-,2083,638,4
+325,lab,104-403-2,Biochemical Engineering Lab,-,2083,638,4
+326,lab,104-404,Graduate Student Office,-,2169,706,4
+327,lab,104-405-1,Enzyme and Protein Engineering Lab,-,2237,768,4
+328,lab,104-405-2,Enzyme and Protein Engineering Lab,-,2237,768,4
+329,lab,104-405-3,Biochemical Engineering Lab,-,2237,768,4
+330,lab,104-405-4,Biochemical Engineering Lab,-,2237,768,4
+331,etc,104-406,Core Facility Room,-,2194,744,4
+332,lab,104-407,Synthetic Biology and Metabolic Engineering Lab,-,2119,773,4
+333,lab,104-408,Graduate Student Office,-,2094,752,4
+334,lab,104-409,Lab,-,2035,710,4
+335,lab,104-410,Systems Biology and Machine Learning Lab,-,1948,641,4
+336,etc,104-411,Seminar Room,-,1983,582,4
+337,elevator,-,customer elevator,-,2100,703,5
+338,office,104-501-1,Faculty Office,Jinyoung Kim,1874,584,5
+339,office,104-501-2,Faculty Office,Sangil Seok,1855,568,5
+340,office,104-501-3,Faculty Office,Jihyun Jang,1833,554,5
+341,office,104-501-4,Faculty Office,Jongnam Park,1814,538,5
+342,office,104-501-5,Faculty Office,Yuri Cho,1865,471,5
+343,office,104-501-6,Faculty Office,-,1844,485,5
+344,office,104-501-7,Faculty Office,-,1905,502,5
+345,office,104-501-8,Faculty Office,-,1926,518,5
+346,lab,104-501-9,Graduate Student Office,-,1946,533,5
+347,lab,104-501-10,Graduate Student Office,-,1968,551,5
+348,etc,104-501-11,Conference Room,-,1872,500,5
+349,ebox,-,emergency box,-,2132,705,5
+350,shower,-,shower 1,-,2190,824,5
+351,shower,-,shower 2,-,2242,760,5
+352,shower,-,shower 3,-,1969,653,5
+353,shower,-,shower 4,-,2064,622,5
+354,toilet,-,5th floor toilet,-,2036,656,5
+355,lab,104-502,Materials and Chemistry Lab,-,1993,569,5
+356,lab,104-503,SSEL,-,2083,638,5
+357,lab,104-504,Graduate Student Office,-,2169,706,5
+358,lab,104-505-1,LEHMS,-,2237,768,5
+359,etc,104-505-2,Core Facility Room,-,2237,768,5
+360,lab,104-505-3,"Sustainable Energy, Low-dimensional materials & Functional devices Lab",-,2237,768,5
+361,etc,104-506,Core Facility Room,-,2194,744,5
+362,lab,104-507,Guns lab,-,2119,773,5
+363,lab,104-508,Graduate Student Office,-,2094,752,5
+364,etc,104-509,The Seo Group,-,2035,710,5
+365,lab,104-510,NGEL,-,1948,641,5
+366,lab,104-511,Graduate Student Office,-,1983,582,5
+367,elevator,-,customer elevator,-,2100,703,6
+368,office,104-601-1,Faculty Office,Hyunhyub Ko,1874,584,6
+369,office,104-601-2,Faculty Office,-,1855,568,6
+370,office,104-601-3,Faculty Office,Chunggi Baig,1833,554,6
+371,office,104-601-4,Faculty Office,Junhee Lee,1814,538,6
+372,office,104-601-5,Faculty Office,Jiseok Lee,1865,471,6
+373,office,104-601-6,Faculty Office,Changyoung Lee,1844,485,6
+374,office,104-601-7,Faculty Office,-,1905,502,6
+375,office,104-601-8,Faculty Office,-,1926,518,6
+376,lab,104-601-9,Graduate Student Office,-,1946,533,6
+377,lab,104-601-10,Graduate Student Office,-,1968,551,6
+378,etc,104-601-11,Conference Room,-,1872,500,6
+379,ebox,-,emergency box,-,2132,705,6
+380,shower,-,shower 1,-,2190,824,6
+381,shower,-,shower 2,-,2242,760,6
+382,shower,-,shower 3,-,1969,653,6
+383,shower,-,shower 4,-,2064,622,6
+384,toilet,-,6th floor toilet,-,2036,656,6
+385,lab,104-602,Carbon Nanomaterials Lab,-,1993,569,6
+386,lab,104-603-1,Lab for Soft Material Nanophysics,-,2083,638,6
+387,lab,104-603-2,Lab for Soft Material Nanophysics,-,2083,638,6
+388,lab,104-604,Graduate Student Office,-,2169,706,6
+389,lab,104-605-1,Theoretical & computational study of Polymer and nanomaterial Lab,-,2237,768,6
+390,lab,104-605-2,QMEC,-,2237,768,6
+391,lab,104-605-3,Advanced Chemical Engineering and Organic Physical Chemistry Lab,-,2237,768,6
+392,etc,104-606,Core Facility Room,-,2194,744,6
+393,lab,104-607,MolSim Lab,-,2119,773,6
+394,lab,104-608,Graduate Student Office,-,2094,752,6
+395,lab,104-609,Multifunctional Architecture Systems and Synthesis Lab,-,2035,710,6
+396,lab,104-610,Functional Nanomaterials and Devices Lab,-,1948,641,6
+397,lab,104-611,Graduate Student Office,-,1983,582,6
+398,elevator,-,customer elevator,-,2100,703,7
+399,office,104-701-1,Faculty Office,Hyunkon Song,1874,584,7
+400,office,104-701-2,Faculty Office,Changduk Yang,1855,568,7
+401,office,104-701-3,Faculty Office,Jongbeon Baek,1833,554,7
+402,office,104-701-4,Faculty Office,Kanghee Ku,1814,538,7
+403,office,104-701-5,Faculty Office,Hankwon Lim,1865,471,7
+404,office,104-701-6,Faculty Office,Minsu Kim,1844,485,7
+405,office,104-701-7,Faculty Office,-,1905,502,7
+406,office,104-701-8,Faculty Office,-,1926,518,7
+407,etc,104-701-9,-,-,1946,533,7
+408,lab,104-701-10,Graduate Student Office,-,1968,551,7
+409,etc,104-701-11,Conference Room,-,1872,500,7
+410,ebox,-,emergency box,-,2132,705,7
+411,shower,-,shower 1,-,2190,824,7
+412,shower,-,shower 2,-,2242,760,7
+413,shower,-,shower 3,-,1969,653,7
+414,shower,-,shower 4,-,2064,622,7
+415,toilet,-,7th floor toilet,-,2036,656,7
+416,lab,104-702,ATOMS,-,1993,569,7
+417,lab,104-703,Lab,-,2083,638,7
+418,lab,104-704,Graduate Student Office,-,2169,706,7
+419,lab,104-705-1,Energy Storage and Electron Microscopy Lab,-,2237,768,7
+420,lab,104-705-2,SPADE,-,2237,768,7
+421,lab,104-705-3,Smart Materials for Energy Lab,-,2237,768,7
+422,lab,104-706,Graduate Student Office,-,2194,744,7
+423,lab,104-707-1,ECLAT,-,2119,773,7
+424,lab,104-707-2,ECLAT,-,2119,773,7
+425,lab,104-708,Graduate Student Office,-,2094,752,7
+426,lab,104-709,CRI,-,2035,710,7
+427,lab,104-710,CDCOF,-,1948,641,7
+428,etc,104-711,Seminar Room,-,1983,582,7
+429,elevator,-,customer elevator,-,2100,703,8
+430,office,104-801-1,Faculty Office,-,1874,584,8
+431,office,104-801-2,Faculty Office,Jiwook Jang,1855,568,8
+432,office,104-801-3,Faculty Office,Jahun Kwak,1833,554,8
+433,office,104-801-4,Faculty Office,Jaesung Lee,1814,538,8
+434,office,104-801-5,Faculty Office,Kwangjin An,1865,471,8
+435,office,104-801-6,Faculty Office,-,1844,485,8
+436,office,104-801-7,Faculty Office,-,1905,502,8
+437,office,104-801-8,NCC administrative Office,-,1926,518,8
+438,lab,104-801-9,Graduate Student Office,-,1946,533,8
+439,lab,104-801-10,Graduate Student Office,-,1968,551,8
+440,etc,104-801-11,Conference Room,-,1872,500,8
+441,ebox,-,emergency box,-,2132,705,8
+442,shower,-,shower 1,-,2190,824,8
+443,shower,-,shower 2,-,2242,760,8
+444,shower,-,shower 3,-,1969,653,8
+445,shower,-,shower 4,-,2064,622,8
+446,toilet,-,8th floor toilet,-,2036,656,8
+447,lab,104-802,Nanomaterials & Catalysis Lab,-,1993,569,8
+448,lab,104-803,Advanced Nanocatalysis Lab,-,2083,638,8
+449,etc,104-804-1,NCC Operator Room,-,2169,706,8
+450,etc,104-804-2,Next-Generation Catalysis Center,-,2169,706,8
+451,etc,104-805-1,Next-Generation Catalysis Center,-,2237,768,8
+452,lab,104-805-2,ECOCAT,-,2237,768,8
+453,lab,104-805-3,ECOCAT,-,2237,768,8
+454,etc,104-806,Core Facility Room,-,2194,744,8
+455,lab,104-807,Graduate Student Office,-,2119,773,8
+456,lab,104-808,Graduate Student Office,-,2094,752,8
+457,lab,104-809,JW Energy Lab,-,2035,710,8
+458,lab,104-810,Molecular Catalysis Lab,-,1948,641,8
+459,etc,104-811,Seminar Room,-,1983,582,8
+460,elevator,-,customer elevator,-,2100,703,9
+461,office,104-901-1,Faculty Office,Huisung Lee,1874,584,9
+462,office,104-901-2,Faculty Office,Sungphil Kim,1855,568,9
+463,office,104-901-3,Faculty Office,Kwanmyung Kim,1833,554,9
+464,office,104-901-4,Faculty Office,-,1814,538,9
+465,office,104-901-5,Faculty Office,Ian Oakley,1865,471,9
+466,office,104-901-6,Faculty Office,Meeting Room,1844,485,9
+467,office,104-901-7,Faculty Office,Kyungho Lee,1905,502,9
+468,office,104-901-8,Administration Office,-,1926,518,9
+469,office,104-901-9,Administration Office,-,1946,533,9
+470,office,104-901-10,Administration Office,-,1968,551,9
+471,office,104-901-11,Administration Office,-,1872,500,9
+472,ebox,-,emergency box,-,2132,705,9
+473,shower,-,shower 1,-,2190,824,9
+474,shower,-,shower 2,-,2242,760,9
+475,shower,-,shower 3,-,1969,653,9
+476,shower,-,shower 4,-,2064,622,9
+477,toilet,-,9th floor toilet,-,2036,656,9
+478,lab,104-902,Interactions Lab,-,1993,569,9
+479,lab,104-903,Brain-Computer interface Lab,-,2083,638,9
+480,lab,104-904,Design Research Lab,-,2169,706,9
+481,etc,104-905,Design Workshop,-,2237,768,9
+482,lab,104-906,Decision Neuroscience & Cognitive Engineering Lab,-,2194,744,9
+483,lab,104-907,DxD Lab/IPD Lab,-,2119,773,9
+484,etc,104-908,Material Library,-,2094,752,9
+485,etc,104-909,design Studio,-,2035,710,9
+486,lab,104-910,Design & electronics Convergence System Lab,-,1948,641,9
+487,lab,104-911,ID Project Lab,-,1983,582,9
+488,elevator,-,customer elevator,-,2100,703,10
+489,office,104-1001-1,Faculty Office,Youngwoo Park,1874,584,10
+490,office,104-1001-2,Faculty Office,Hwang Kim,1855,568,10
+491,office,104-1001-3,Faculty Office,-,1833,554,10
+492,office,104-1001-4,Faculty Office,Chajoong Kim,1814,538,10
+493,office,104-1001-5,Faculty Office,Youngshin Kwak,1865,471,10
+494,office,104-1001-6,Faculty Office,James Andrew,1844,485,10
+495,office,104-1001-7,Faculty Office,Meeting Room,1905,502,10
+496,office,104-1001-8,Faculty Office,Seongho Lee,1926,518,10
+497,office,104-1001-9,Faculty Office,Dongil Chung,1946,533,10
+498,office,104-1001-10,Faculty Office,Ohsang Kwon,1968,551,10
+499,etc,104-1001-11,Meeding Room,-,1872,500,10
+500,ebox,-,emergency box,-,2132,705,10
+501,shower,-,shower 1,-,2190,824,10
+502,shower,-,shower 2,-,2242,760,10
+503,shower,-,shower 3,-,1969,653,10
+504,shower,-,shower 4,-,2064,622,10
+505,toilet,-,10th floor toilet,-,2036,656,10
+506,lab,104-1002,Color & Affective Engineering Lab,-,1993,569,10
+507,lab,104-1003,Interaction & Experience Lab,-,2083,638,10
+508,lab,104-1004,Home Lab/Emotion Lab,-,2169,706,10
+509,etc,104-1005,TD ROOM,-,2237,768,10
+510,etc,104-1006,design Studio,-,2194,744,10
+511,etc,104-1007,CAD,-,2119,773,10
+512,etc,104-1008,Interaction Room,-,2094,752,10
+513,lab,104-1009,Disegno T9/DESIS Lab,-,2035,710,10
+514,lab,104-1010,Ergonomics Lab,-,1948,641,10
+515,etc,104-1011,Seminar Room,-,1983,582,10
+516,node,-,104-3-NE,-,2046,623,3
+517,node,-,104-3-NW,-,2012,674,3
+518,node,-,104-3-SE,-,2134,685,3
+519,node,-,104-3-SW,-,2095,743,3
+520,node,-,104-4-NE,-,2046,623,4
+521,node,-,104-4-NW,-,2012,674,4
+522,node,-,104-4-SE,-,2134,685,4
+523,node,-,104-4-SW,-,2095,743,4
+524,node,-,104-5-NE,-,2046,623,5
+525,node,-,104-5-NW,-,2012,674,5
+526,node,-,104-5-SE,-,2134,685,5
+527,node,-,104-5-SW,-,2095,743,5
+528,node,-,104-6-NE,-,2046,623,6
+529,node,-,104-6-NW,-,2012,674,6
+530,node,-,104-6-SE,-,2134,685,6
+531,node,-,104-6-SW,-,2095,743,6
+532,node,-,104-7-NE,-,2046,623,7
+533,node,-,104-7-NW,-,2012,674,7
+534,node,-,104-7-SE,-,2134,685,7
+535,node,-,104-7-SW,-,2095,743,7
+536,node,-,104-8-NE,-,2046,623,8
+537,node,-,104-8-NW,-,2012,674,8
+538,node,-,104-8-SE,-,2134,685,8
+539,node,-,104-8-SW,-,2095,743,8
+540,node,-,104-9-NE,-,2046,623,9
+541,node,-,104-9-NW,-,2012,674,9
+542,node,-,104-9-SE,-,2134,685,9
+543,node,-,104-9-SW,-,2095,743,9
+544,node,-,104-10-NE,-,2046,623,10
+545,node,-,104-10-NW,-,2012,674,10
+546,node,-,104-10-SE,-,2134,685,10
+547,node,-,104-10-SW,-,2095,743,10
+548,office,106-305-2,Student Lounge,-,1836,1227,3
+549,lab,106-307-1,Lab of AI and Robotics,-,1772,1265,3
+550,office,106-308,EE Administration Office,-,1742,1119,3
+551,lab,106-309,Advanced Electronics Experiments Lab,-,1704,1070,3
+552,lab,106-310,Fundamental Circuits Experiments Lab,-,1632,980,3
+553,office,106-301-1,Faculty Office,Seungryul Han,1573,888,3
+554,office,106-301-2,Faculty Office,Jee Hoon Jung,1555,868,3
+555,office,106-301-4,Faculty Office,Jaiyong Lee,1514,818,3
+556,office,106-301-5,Faculty Office,Hyeonwoo Yu,1596,762,3
+557,office,106-301-6,Faculty Office,Se-Un Shin,1615,789,3
+558,office,106-301-7,Faculty Office,Jimin Kwon,1631,808,3
+559,etc,106-301-11,Meeting Room,-,1597,796,3
+560,lab,106-302-1,Human-Computer Interaction Lab,-,1707,917,3
+561,lab,106-302-2,Intelligent Wireless Communication Lab,-,1752,968,3
+562,lab,106-303-1,Data Mining Lab,-,1779,1014,3
+563,lab,106-303-2,Secure Software Lab,-,1815,1058,3
+564,lab,106-304-1,Power & Integrated Circuit Technology for Universal Systems Lab,-,1846,1113,3
+565,lab,106-304-2,Advanced Power Interface and Power Electronics Lab,-,1887,1164,3
+566,lab,106-305-1,Power Electronics Lab,-,1836,1227,3
+567,etc,106-306,Server Room,-,1872,1171,3
+568,class room,106-311,Lecture Room,-,1691,924,3
+569,elevator,-,elevator,-,1775,1088,3
+570,ebox,-,emergency box,-,1807,1096,3
+571,toilet,-,toilet,-,1726,1022,3
+572,shower,-,shower,-,1827,1225,3
+573,shower,-,shower,-,1893,1182,3
+574,office,106-401-1,Faculty Office,Seong-Jin Kim,1573,888,4
+575,office,106-401-2,Faculty Office,Sung Whan Yoon,1555,868,4
+576,office,106-401-3,Faculty Office,Franklin Bien,1541,847,4
+577,office,106-401-4,Faculty Office,Seung Joon Yang,1514,818,4
+578,office,106-401-5,Faculty Office,Kyuho Lee,1596,762,4
+579,office,106-401-6,Faculty Office,Jooyong Yi,1615,789,4
+580,office,106-401-7,Faculty Office,Hyoil Kim,1631,808,4
+581,office,106-401-8,Faculty Office,Heein Yoon,1649,834,4
+582,office,106-401-9,Faculty Office,Seungryul Baek,1666,856,4
+583,office,106-401-10,Faculty Office,Sungahn Ko,1685,883,4
+584,etc,106-401-11,Meeting Room,-,1597,796,4
+585,lab,106-402-1,Embedded AI Lab,-,1707,917,4
+586,lab,106-403,Wireless & Mobile Networking Lab,-,1779,1014,4
+587,lab,106-404,Human-AI Interaction and Visualization,-,1846,1113,4
+588,lab,106-405-1,Internet of Things System Lab,-,1836,1227,4
+589,lab,106-405-2,Circuits and Systems Design Lab,-,1836,1227,4
+590,etc,106-406,Dark Room,-,1872,1171,4
+591,lab,106-405-3,Bien's Integrated Circuit Design Lab,-,1836,1227,4
+592,lab,106-407-1,Programming Languages and Software Engineering Lab,-,1772,1265,4
+593,lab,106-407-2,UNIST Vision and Learning Lab,-,1813,1217,4
+594,office,106-408,CSE Administration Office,-,1742,1119,4
+595,lab,106-409-1,Machine Intelligence and Information Learning Laboratory,-,1666,1028,4
+596,lab,106-409-2,Advanced Circuits and Electronics Lab,-,1704,1070,4
+597,lab,106-410-1,Signal Processing Lab,-,1601,931,4
+598,lab,106-410-2,Intelligent Systems Lab,-,1632,980,4
+599,class room,106-411,Lecture Room,-,1691,924,4
+600,elevator,-,elevator,-,1775,1088,4
+601,ebox,-,emergency box,-,1807,1096,4
+602,toilet,-,toilet,-,1726,1022,4
+603,shower,-,shower,-,1827,1225,4
+604,shower,-,shower,-,1893,1182,4
+605,office,106-501-1,Faculty Office,Seulki Lee,1573,888,5
+606,office,106-501-2,Faculty Office,Jae-Young Sim,1555,868,5
+607,office,106-501-3,Faculty Office,Jeong hwan Jeon,1541,847,5
+608,office,106-501-4,Faculty Office,Yunsik Lee,1514,818,5
+609,office,106-501-5,Faculty Office,Jongeun Lee,1596,762,5
+610,office,106-501-6,Faculty Office,Jae Joon Kim,1615,789,5
+611,office,106-501-7,Faculty Office,Jingook Kim,1631,808,5
+612,office,106-501-8,Faculty Office,Gangil Byun,1649,834,5
+613,office,106-501-9,Faculty Office,Youngbin Im,1666,856,5
+614,office,106-501-10,Faculty Office,Jooyeon Kim,1685,883,5
+615,office,106-501-11,Research Administration Office,-,1597,796,5
+616,lab,106-502-1,Next-generation Networks and Systems Laboratory,-,1707,917,5
+617,lab,106-502-2,Machine Learning & Intelligent Control Lab,-,1752,968,5
+618,lab,106-503,Intelligent Computing and Codesign Lab,-,1779,1014,5
+619,lab,106-504-1,Integrated Circuit and Electromagnetic compatibility Lab,-,1846,1113,5
+620,lab,106-504-2,Antenna Technology Laboratory,-,1887,1164,5
+621,etc,106-505-1,PC Room (windows&Linux),-,1836,1227,5
+622,etc,106-506,Server Room,-,1872,1171,5
+623,etc,106-505-2,PC Room (Mac),-,1836,1227,5
+624,lab,106-507,Bio-inspired Advanced Sensor Lab,-,1772,1265,5
+625,etc,106-508,Cafeteria,-,1742,1119,5
+626,lab,106-509,Visual Information Processing Lab,-,1666,1028,5
+627,lab,106-510-2,Robotics and Mobility Lab,-,1632,980,5
+628,class room,106-511,Lecture Room,-,1691,924,5
+629,elevator,-,elevator,-,1775,1088,5
+630,ebox,-,emergency box,-,1807,1096,5
+631,toilet,-,toilet,-,1726,1022,5
+632,shower,-,shower,-,1827,1225,5
+633,shower,-,shower,-,1893,1182,5
+634,office,106-601-1,Faculty Office,Kyung Rok Kim,1573,888,6
+635,office,106-601-2,Faculty Office,Min-Suk Kwon,1555,868,6
+636,office,106-601-3,Faculty Office,Hyungon Moon,1514,818,6
+637,office,106-601-5,Faculty Office,Myeongjae Jeon,1596,762,6
+638,office,106-601-6,Faculty Office,Il-Sug Chung,1615,789,6
+639,office,106-601-7,Faculty Office,Young-ri Choi,1631,808,6
+640,office,106-601-8,Faculty Office,Woongki Baek,1649,834,6
+641,office,106-601-9,Faculty Office,Jongwon Lee,1666,856,6
+642,office,106-601-10,Faculty Office,Myungsoo Kim,1685,883,6
+643,office,106-601-11,Research Administration Office,-,1597,796,6
+644,lab,106-602,Nano-Electronic Emerging Devices lab,-,1707,917,6
+645,lab,106-603-1,Nano-OptoElectronics Lab,-,1779,1014,6
+646,lab,106-603-2,Laboratory of Advanced Imaging Technology,-,1815,1058,6
+647,lab,106-604,Nanostructured Photonic Devices Lab,-,1846,1113,6
+648,lab,106-605-1,Next-generation Embedded Computer System Software Technology lab,-,1836,1227,6
+649,lab,106-605-2,Intelligent System Software Lab,-,1836,1227,6
+650,lab,106-605-3,System Software Laboratory,-,1836,1227,6
+651,etc,106-606,Server Room,-,1872,1171,6
+652,lab,106-605-4,Computer Systems Security Lab,-,1836,1227,6
+653,lab,106-605-5,OMNIA,-,1836,1227,6
+654,office,106-608,Research Division Electrical and Computer Engineering,-,1742,1119,6
+655,lab,106-609-1,Nano Electronics and Technology Lab,-,1666,1028,6
+656,lab,106-609-2,Nanoelectronics and 3D Packaging Lab,-,1704,1070,6
+657,lab,106-610,Ubiquitous Photonics Lab,-,1601,931,6
+658,class room,106-611,Lecture Room,-,1691,924,6
+659,elevator,-,elevator,-,1775,1088,6
+660,ebox,-,emergency box,-,1807,1096,6
+661,toilet,-,toilet,-,1726,1022,6
+662,shower,-,shower,-,1827,1225,6
+663,shower,-,shower,-,1893,1182,6
+664,office,106-701-1,Faculty Office,Antoine Vigneron,1573,888,7
+665,office,106-701-2,Faculty Office,Hyemin Ahn,1555,868,7
+666,office,106-701-3,Faculty Office,EunMi Choi,1541,847,7
+667,office,106-701-4,Faculty Office,Hak-Sun Kim,1514,818,7
+668,office,106-701-5,Faculty Office,Jaejun Yoo,1596,762,7
+669,office,106-701-6,Faculty Office,Tsz-Chiu Au,1615,789,7
+670,office,106-701-7,Faculty Office,Junghoon Kim,1631,808,7
+671,office,106-701-8,Faculty Office,Yuseok Jeon,1649,834,7
+672,office,106-701-9,Faculty Office,Jaeyeon Lee,1666,856,7
+673,office,106-701-10,Faculty Office,Taehwan Kim,1685,883,7
+674,etc,106-701-11,Meeting Room,-,1597,796,7
+675,lab,106-702,Electromagnetic Wave Characterization Lab,-,1707,917,7
+676,lab,106-703-1,Center for nanoelectronic Brain-inspired Systems,-,1779,1014,7
+677,lab,106-703-2,"Machine Learning, Vision and Language Lab",-,1815,1058,7
+678,lab,106-704,THz Vacuum Electronics & Applied Electromagnetics Lab,-,1846,1113,7
+679,etc,106-705,AI Room,-,1836,1227,7
+680,lab,106-707-1,3D Vision & Robotics Lab,-,1772,1265,7
+681,lab,106-707-2,AI & Human-Robot Interaction Laboratory,-,1813,1217,7
+682,lab,106-709-1,Agents and Robotic Transportation Lab,-,1666,1028,7
+683,lab,106-710-1,Geometric Algorithms Lab,-,1601,931,7
+684,lab,106-710-2,Machine Learning and Vision Lab,-,1632,980,7
+685,class room,106-711,Lecture Room,-,1691,924,7
+686,elevator,-,elevator,-,1775,1088,7
+687,ebox,-,emergency box,-,1807,1096,7
+688,toilet,-,toilet,-,1726,1022,7
+689,shower,-,shower,-,1827,1225,7
+690,shower,-,shower,-,1893,1182,7
+691,office,106-801-5,Faculty Office,Ilwoo Lyu,1596,762,8
+692,office,106-801-6,Faculty Office,Mijung Kim,1615,789,8
+693,office,106-801-7,Faculty Office,Hyounghun Kim,1631,808,8
+694,office,106-801-8,Faculty Office,Min Woo Ryu,1649,834,8
+695,office,106-801-10,Faculty Office,Kyungdon Joo,1685,883,8
+696,office,106-801-11,AIGS Administration Office,-,1597,796,8
+697,lab,106-802,5T-SPACE Research Center,-,1707,917,8
+698,lab,106-803-1,3D Shape Analysis Lab,-,1779,1014,8
+699,lab,106-803-2,Software Testing and Analysis Research Lab,-,1815,1058,8
+700,etc,106-804-2,Public Server Room,-,1887,1164,8
+701,etc,106-805-1,RuC2N,-,1836,1227,8
+702,class room,106-811,Lecture Room,-,1691,927,8
+703,etc,106-801-1,Uan Tech,-,1573,888,8
+704,etc,106-801-4,The LOAD,-,1514,818,8
+705,etc,106-805-2,INOPLAZTECH,-,1836,1227,8
+706,etc,106-805-4,EM CORETECH,-,1836,1227,8
+707,etc,106-805-5,AMHOLO,-,1836,1227,8
+708,etc,106-805-6,Startup Lounge,-,1836,1227,8
+709,lab,106-807A,Language & Intelligence Lab,-,1813,1217,8
+710,etc,106-807B,Fusion Biotechnology,-,1772,1265,8
+711,etc,106-809,Feel the Same,-,1704,1070,8
+712,etc,106-810,The LOAD,-,1632,980,8
+713,elevator,-,elevator,-,1775,1088,8
+714,ebox,-,emergency box,-,1807,1096,8
+715,toilet,-,toilet,-,1726,1022,8
+716,shower,-,shower,-,1827,1225,8
+717,shower,-,shower,-,1893,1182,8
+718,node,-,106-3-NE,-,1735,991,3
+719,node,-,106-3-SE,-,1805,1087,3
+720,node,-,106-3-SW,-,1739,1117,3
+721,node,-,106-3-NW,-,1681,1033,3
+722,node,-,106-4-NE,-,1735,991,4
+723,node,-,106-4-SE,-,1805,1087,4
+724,node,-,106-4-SW,-,1739,1117,4
+725,node,-,106-4-NW,-,1681,1033,4
+726,node,-,106-5-NE,-,1735,991,5
+727,node,-,106-5-SE,-,1805,1087,5
+728,node,-,106-5-SW,-,1739,1117,5
+729,node,-,106-5-NW,-,1681,1033,5
+730,node,-,106-6-NE,-,1735,991,6
+731,node,-,106-6-SE,-,1805,1087,6
+732,node,-,106-6-SW,-,1739,1117,6
+733,node,-,106-6-NW,-,1681,1033,6
+734,node,-,106-7-NE,-,1735,991,7
+735,node,-,106-7-SE,-,1805,1087,7
+736,node,-,106-7-SW,-,1739,1117,7
+737,node,-,106-7-NW,-,1681,1033,7
+738,node,-,106-8-NE,-,1735,991,8
+739,node,-,106-8-SE,-,1805,1087,8
+740,node,-,106-8-SW,-,1739,1117,8
+741,node,-,106-8-NW,-,1681,1033,8
+742,door,-,csdoor,-,1443,1047,1
+743,cafe,-,Bread&Co,-,1489,1109,1
+744,store,-,Convenient,-,1537,1085,1
+745,store,-,Mom's Touch,-,1433,1135,1
+746,ebox,-,emergency box,-,1417,1091,1
+747,toilet,-,toilet,-,1499,1143,1
+748,door,-,cs 108 door,-,1254,1072,1
+749,office,108-u101,UCRF Office,-,1329,1119,1
+750,etc,108-u103,Supercomputing Center,-,1350,1251,1
+751,etc,108-u104,Infrastructure Room II,-,1364,1439,1
+752,office,108-u106,Control Center,-,1304,1416,1
+753,door,-,door,-,1348,1495,1
+754,office,108-u107,UNIST Operations Center,-,1274,1301,1
+755,office,108-u108,UNIST Operations Center,-,1248,1204,1
+756,etc,108-u109,UCRF Seminar Room,-,1219,1138,1
+757,addto,-,addto,-,1203,1118,1
+758,stair,-,stair,-,1269,1113,1
+759,elevator,-,elevator,-,1285,1161,1
+760,toilet,-,toilet,-,1294,1223,1
+761,stair,-,stair,-,1326,1333,1
+762,elevator,-,elevator,-,1356,1386,1
+763,node,-,node29,-,1306,1131,1
+764,node,-,node30,-,1333,1442,1
+765,node,-,node31,-,1306,1359,1
+766,node,-,node32,-,1275,1253,1
+767,node,-,node33,-,1248,1159,1
+768,node,-,node34,-,1234,1124,1
+769,node,-,node35,-,1219,1085,1
+770,node,-,node36,-,1077,1130,1
+771,node,-,node37,-,949,1142,1
+772,stair,-,stair,-,1165,1221,1
+773,classroom,108-u110,Amphitheater,-,1057,1206,1
+774,stair,-,stair,-,951,1235,1
+775,door,-,door,-,1043,1103,1
+776,classroom,110-n101,Amphitheater,-,867,1226,1
+777,classroom,110-n102,Amphitheater,-,867,1334,1
+778,classroom,110-n103,Amphitheater,-,867,1390,1
+779,classroom,110-n104,Amphitheater,-,868,1501,1
+780,door,-,door,-,825,1582,1
+781,classroom,110-n105,Amphitheater,-,768,1504,1
+782,classroom,110-n106-2,Flipped Classroom,-,771,1458,1
+783,classroom,110-n106-1,Flipped Classroom,-,770,1363,1
+784,classroom,110-n107-1,Flipped Classroom,-,769,1287,1
+785,classroom,110-n107-2,Flipped Classroom,-,767,1227,1
+786,aed,-,aed,-,812,1154,1
+787,stair,-,stair,-,834,1180,1
+788,elevator,-,elevator,-,818,1220,1
+789,toilet,-,toilet,-,819,1304,1
+790,shower,-,shower,-,817,1341,1
+791,etc,110-n110,Multi Purpose Room,-,816,1388,1
+792,stair,-,stair,-,825,1437,1
+793,elevator,-,elevator,-,819,1491,1
+794,node,-,node39,-,856,1485,1
+795,node,-,node40,-,853,1327,1
+796,node,-,node41,-,852,1209,1
+797,node,-,node42,-,784,1487,1
+798,node,-,node43,-,781,1327,1
+799,node,-,node44,-,781,1212,1
+800,door,-,door,-,587,1102,1
+801,stair,-,stair,-,687,1239,1
+802,classroom,112-i110,Learning Commons,-,588,1219,1
+803,stair,-,stair,-,478,1198,1
+804,node,-,node45,-,651,1150,1
+805,node,-,node46,-,527,1131,1
+806,door,-,door,-,377,1083,1
+807,classroom,112-i101-1,Flipped Classroom,-,418,1152,1
+808,classroom,112-i101-2,Flipped Classroom,-,384,1293,1
+809,lab,112-i103,Specialized Experiment Lab.,-,326,1304,1
+810,etc,112-i104,-,-,316,1262,1
+811,door,-,door,-,333,1449,1
+812,elevator,-,elevator,-,307,1402,1
+813,stair,-,stair,-,336,1363,1
+814,toilet,-,toilet,-,358,1250,1
+815,elevator,-,elevator,-,365,1177,1
+816,stair,-,stair,-,386,1128,1
+817,node,-,node47,-,339,1407,1
+818,node,-,node48,-,374,1274,1
+819,node,-,node49,-,426,1109,1
+820,door,-,door,-,1375,1518,2
+821,office,108-u201,Graduate student council office,-,1248,1204,2
+822,office,108-u202,Office of Dean College of Engineering,-,1219,1138,2
+823,office,108-u203,Academic & Students Affairs Team College of Information and Biotechnology,-,1329,1119,2
+824,etc,108-u204,Waste Storage,-,1274,1301,2
+825,node,-,node50,-,1306,1356,2
+826,node,-,node51,-,1275,1253,2
+827,node,-,node52,-,1248,1159,2
+828,node,-,node53,-,1234,1124,2
+829,stair,-,stair,-,1269,1113,2
+830,elevator,-,elevator,-,1285,1161,2
+831,toilet,-,toilet,-,1294,1223,2
+832,stair,-,stair,-,1326,1333,2
+833,elevator,-,elevator,-,1356,1386,2
+834,node,-,node54,-,856,1485,2
+835,node,-,node55,-,853,1327,2
+836,node,-,node56,-,852,1209,2
+837,node,-,node57,-,784,1487,2
+838,node,-,node58,-,781,1327,2
+839,node,-,node59,-,781,1212,2
+840,node,-,node60,-,1210,1304,2
+841,stair,-,stair,-,1183,1270,2
+842,classroom,108-u110,Amphitheater,-,1110,1321,2
+843,node,-,node61,-,1019,1336,2
+844,stair,-,stair,-,953,1307,2
+845,etc,110-001,Faculty Conference Room,-,960,1347,2
+846,etc,110-002,Faculty Conference Room,-,868,1501,2
+847,etc,110-003,Faculty Conference Room,-,872,1560,2
+848,etc,110-004,Faculty Conference Room,-,867,1390,2
+849,etc,110-005,Faculty Conference Room,-,867,1454,2
+850,etc,-,Executive Faculty Lounge,-,916,1321,2
+851,cafe,-,Dutch & Bean,-,816,1388,2
+852,etc,108-u207-7,Haedong Hall,-,768,1504,2
+853,etc,108-u207-8,Haedong Hall,-,771,1458,2
+854,stair,-,stair,-,834,1180,2
+855,elevator,-,elevator,-,818,1220,2
+856,toilet,-,toilet,-,819,1304,2
+857,stair,-,stair,-,825,1437,2
+858,elevator,-,elevator,-,819,1491,2
+859,door,-,door,-,828,1582,2
+860,node,-,node62,-,721,1352,2
+861,stair,-,stair,-,687,1311,2
+862,classroom,112-i110,Learning Commons,-,623,1337,2
+863,node,-,node63,-,558,1351,2
+864,stair,-,stair,-,458,1278,2
+865,etc,112-i203,Video Conference Room,-,296,1247,2
+866,etc,112-i204,Innovative Education Center,-,326,1149,2
+867,etc,112-i205,Digital Learning Studio,-,418,1152,2
+868,elevator,-,elevator,-,307,1402,2
+869,stair,-,stair,-,336,1363,2
+870,toilet,-,toilet,-,358,1250,2
+871,elevator,-,elevator,-,365,1177,2
+872,stair,-,stair,-,386,1128,2
+873,node,-,node64,-,339,1407,2
+874,node,-,node65,-,374,1274,2
+875,node,-,node66,-,408,1167,2
+876,node,-,node67,-,319,1238,2
+877,node,-,node68,-,351,1142,2
+878,etc,108-301,Conference Room,-,1241,1037,3
+879,office,108-301-1,Department of Mathematical Sciences Admin. Office,-,1213,1090,3
+880,office,108-301-2,Department of Mathematical Sciences Admin. Office,-,1207,1071,3
+881,office,108-301-3,Faculty Office,Jinhyuk Choi,1198,1047,3
+882,office,108-301-4,Faculty Office,Kyudong Choi,1191,1023,3
+883,office,108-301-5,Faculty Office,Jaehun Cho,1183,998,3
+884,office,108-301-6,Faculty Office,Bongsoo Jang,1175,979,3
+885,office,108-301-7,Faculty Office,Pilwon Kim,1208,997,3
+886,office,108-301-8,Faculty Office,Changhyeong Lee,1252,986,3
+887,office,108-301-9,Faculty Office,Changyeol Jung,1259,956,3
+888,office,108-301-10,Faculty Office,Bongsuk Kwon,1268,978,3
+889,office,108-301-11,Faculty Office,Yunho Kim,1275,1000,3
+890,office,108-301-12,Faculty Office,Hantaek Bae,1283,1024,3
+891,office,108-301-13,Faculty Office,Haesang Sun,1290,1048,3
+892,office,108-301-14,Faculty Office,Choi Park,1298,1069,3
+893,lab,108-302,Zeta function and Arithmetics Lab.,-,1311,1090,3
+894,lab,108-303,Center for Analysis and PDEs,-,1330,1139,3
+895,shower,-,shower,-,1339,1170,3
+896,lab,108-304,Probability Modeling Lab.,-,1344,1190,3
+897,lab,108-305,Numerical Analysis and Mathematical Imaging Lab.,-,1360,1234,3
+898,shower,-,shower,-,1372,1264,3
+899,lab,108-306,Computational Mathematical Sciences,-,1377,1285,3
+900,lab,108-307,Arithmetic Geometry Lab. Mathematical Physics Lab,-,1391,1326,3
+901,lab,108-308,Nonlinear Analysis in PDEs Lab,-,1408,1372,3
+902,shower,-,shower,-,1420,1408,3
+903,lab,108-309,Researcher Room II,-,1426,1430,3
+904,lab,108-310,Precision Measurement Physics Lab.,-,1374,1442,3
+905,lab,108-311,Researcher Room I,-,1325,1459,3
+906,shower,-,shower,-,1320,1440,3
+907,lab,108-312,Von Neumann,-,1308,1402,3
+908,lab,108-313,Poincare,-,1294,1354,3
+909,etc,108-314,Math Lounge,-,1273,1297,3
+910,shower,-,shower,-,1260,1250,3
+911,lab,108-316,Fermat,-,1247,1214,3
+912,lab,108-318,Gauss,-,1233,1169,3
+913,shower,-,shower,-,1227,1153,3
+914,lab,108-319,Euler,-,1218,1123,3
+915,etc,108-320,MATH Reading Room,-,1316,1261,3
+916,elevator,-,elevator,-,1361,1399,3
+917,ebox,-,emergency box,-,1344,1403,3
+918,toilet,-,toilet,-,1284,1232,3
+919,elevator,-,elevator,-,1281,1151,3
+920,ebox,-,emergency box,-,1261,1140,3
+921,node,-,108-3-SW,-,1322,1399,3
+922,node,-,108-3-SE,-,1395,1379,3
+923,node,-,108-3-NW,-,1242,1155,3
+924,node,-,108-3-NE,-,1313,1132,3
+925,etc,108-401,Seminar Room,-,1241,1037,4
+926,office,108-401-1,Head of Department of Mathematical Sciences,-,1213,1090,4
+927,office,108-401-2,Faculty Office,Youngae Lee,1207,1071,4
+928,office,108-401-3,Faculty Office,Noejung Park,1198,1047,4
+929,office,108-401-4,Administrative office. Department of Physics,-,1191,1023,4
+930,office,108-401-5,Administrative office. Department of Physics,-,1183,998,4
+931,office,108-401-6,Administrative office. Department of Physics,-,1175,979,4
+932,office,108-401-7,Faculty Office,Cheolmin Ghim,1208,997,4
+933,office,108-401-8,Faculty Office,Chaeun Kim,1252,986,4
+934,office,108-401-9,Faculty Office,Jaeup Kim,1259,956,4
+935,office,108-401-10,Faculty Office,Moses Chung,1268,978,4
+936,office,108-401-11,Faculty Office,Kyoungduck Park,1275,1000,4
+937,office,108-401-12,Faculty Office,Minsup Hur,1283,1024,4
+938,office,108-401-13,Faculty Office,Jungjin Lee,1290,1048,4
+939,office,108-401-14,Faculty Office,Rakkyeong Seong,1298,1069,4
+940,lab,108-402,High Pressure X-ray Science Lab.,-,1330,1139,4
+941,shower,-,shower,-,1339,1170,4
+942,lab,108-403,Intense Beam and Accelerator Lab.,-,1360,1234,4
+943,shower,-,shower,-,1372,1264,4
+944,lab,108-404,Nuclear Fusion Plasma Physics Lab.,-,1391,1326,4
+945,lab,108-405-1,High Pressure X-ray Science Lab.,-,1408,1372,4
+946,shower,-,shower,-,1420,1408,4
+947,lab,108-405,Physics of Complex Systems Lab,-,1426,1430,4
+948,etc,108-406,Core Facility Room,-,1374,1442,4
+949,lab,108-407,Computational Lab.,-,1325,1459,4
+950,shower,-,shower,-,1320,1440,4
+951,lab,108-408,Soft Matter and Biological Physics Theory Lab.,-,1294,1354,4
+952,lab,108-409,Condensed Matter Physics Theory Lab.,-,1273,1297,4
+953,shower,-,shower,-,1260,1250,4
+954,lab,108-410,Computational Plasma Lab.,-,1247,1214,4
+955,lab,108-411,Computational Astrophysics Lab.,-,1233,1169,4
+956,shower,-,shower,-,1227,1153,4
+957,lab,108-412,Astrophysics Lab.,-,1218,1123,4
+958,etc,108-413,Server Room for Physics Dept.,-,1316,1261,4
+959,elevator,-,elevator,-,1361,1399,4
+960,ebox,-,emergency box,-,1344,1403,4
+961,toilet,-,toilet,-,1284,1232,4
+962,elevator,-,elevator,-,1281,1151,4
+963,ebox,-,emergency box,-,1261,1140,4
+964,node,-,108-4-SW,-,1322,1399,4
+965,node,-,108-4-SE,-,1395,1379,4
+966,node,-,108-4-NW,-,1242,1155,4
+967,node,-,108-4-NE,-,1313,1132,4
+968,etc,108-501,Seminar Room,-,1241,1037,5
+969,office,108-501-1,SRC Admin. Office (Physics),-,1213,1090,5
+970,office,108-501-2,SRC Director Office(Physics),-,1207,1071,5
+971,office,108-501-3,Faculty Office,Hosub Jin,1198,1047,5
+972,office,108-501-4,Faculty Office,Sandro Tacchella,1191,1023,5
+973,office,108-501-5,Faculty Office,Kyujin Kwak,1183,998,5
+974,office,108-501-6,Faculty Office,Dongsu Ryu,1175,979,5
+975,office,108-501-7,Faculty Office,Joonwoo Jeong,1208,997,5
+976,office,108-501-8,Faculty Office,Jehyung Kim,1252,986,5
+977,office,108-501-9,Faculty Office,Yongkyoon In,1259,956,5
+978,office,108-501-10,Head of Department of Physics,-,1268,978,5
+979,office,108-501-11,Faculty Office,Kibog Park,1275,1000,5
+980,office,108-501-12,Faculty Office,Yoonseok Oh,1283,1024,5
+981,office,108-501-13,Director Office,-,1290,1048,5
+982,office,108-501-14,Admin. Office,-,1298,1069,5
+983,lab,108-511,Extragalatic Astrophysics Lab.,-,1311,1090,5
+984,lab,108-511-1,Bose-Einstein room,-,1330,1139,5
+985,shower,-,shower,-,1339,1170,5
+986,lab,108-510,Fusion plasma Physics Research Lab.,-,1360,1234,5
+987,shower,-,shower,-,1372,1264,5
+988,lab,108-502,Nano-PhotoEnergy Lab,-,1391,1326,5
+989,shower,-,shower,-,1420,1408,5
+990,lab,108-503,Emergent Materials & Devices Lab.,-,1426,1430,5
+991,etc,108-504,Core Facility Room,-,1374,1442,5
+992,lab,108-505,Soft Matter Physics Lab.,-,1325,1459,5
+993,shower,-,shower,-,1320,1440,5
+994,lab,108-505-1,Soft Matter Physics Lab.,-,1308,1402,5
+995,lab,108-506,eXotic Phase transitions in Emergent Materials,-,1294,1354,5
+996,shower,-,shower,-,1260,1250,5
+997,lab,108-509,Solid-State Quantum Architecture Lab.,-,1233,1169,5
+998,shower,-,shower,-,1227,1153,5
+999,lab,108-508,Center for High Energy Astrophysics Lab.,-,1218,1123,5
+1000,lab,108-507,Physics Lab.,-,1316,1261,5
+1001,elevator,-,elevator,-,1361,1399,5
+1002,ebox,-,emergency box,-,1344,1403,5
+1003,toilet,-,toilet,-,1284,1232,5
+1004,elevator,-,elevator,-,1281,1151,5
+1005,ebox,-,emergency box,-,1261,1140,5
+1006,node,-,108-5-SW,-,1322,1399,5
+1007,node,-,108-5-SE,-,1395,1379,5
+1008,node,-,108-5-NW,-,1242,1155,5
+1009,node,-,108-5-NE,-,1313,1132,5
+1010,etc,108-601,Conference Room,-,1241,1037,6
+1011,office,108-601-1,Faculty Office,Sunjung Kim,1213,1090,6
+1012,office,108-601-2,Faculty Office,Manoj Kumar,1207,1071,6
+1013,office,108-601-3,Faculty Office,Sangyong Yi,1198,1047,6
+1014,office,108-601-4,Faculty Office,Seongcho Yu,1191,1023,6
+1015,office,108-601-5,Faculty Office,Changhee Sohn,1183,998,6
+1016,office,108-601-6,Faculty Office,Hyeongryeol Park,1175,979,6
+1017,etc,108-601-7,-,-,1208,997,6
+1018,office,108-601-8,Faculty Office,Daesik Kim,1252,986,6
+1019,office,108-601-9,Faculty Office,Namgung Seon,1259,956,6
+1020,office,108-601-10,Faculty Office,Kunook Chung,1268,978,6
+1021,office,108-601-11,Admin. Office,-,1275,1000,6
+1022,office,108-601-12,Faculty Office,Francois Amblard,1283,1024,6
+1023,office,108-601-13,Faculty Office,Youngkook Kwon,1290,1048,6
+1024,office,108-601-14,Faculty Office,Sungyeon Jang,1298,1069,6
+1025,lab,108-602,Renewable Energy and Nanoelectronics Lab (RENEL),-,1330,1139,6
+1026,shower,-,shower,-,1339,1170,6
+1027,lab,108-603,Electrochemistry Lab for Energy and Environment (ELEE),-,1360,1234,6
+1028,shower,-,shower,-,1372,1264,6
+1029,lab,108-604,Graduate Students Office,-,1391,1326,6
+1030,shower,-,shower,-,1420,1408,6
+1031,lab,108-605,Researchers' room,-,1426,1430,6
+1032,lab,108-606,Strongly Correlating Lounge,-,1374,1442,6
+1033,lab,108-607-1,Materials Growth Lab.,-,1325,1459,6
+1034,shower,-,shower,-,1320,1440,6
+1035,lab,108-607-2,Chemical Reactions Lab.,-,1308,1402,6
+1036,lab,108-607-3,Nano Fabrications Lab.,-,1294,1354,6
+1037,shower,-,shower,-,1260,1250,6
+1038,lab,108-607-4,Optical Measurements Lab.,-,1233,1169,6
+1039,shower,-,shower,-,1227,1153,6
+1040,lab,108-608,Physical Measurement Lab.,-,1316,1261,6
+1041,elevator,-,elevator,-,1361,1399,6
+1042,ebox,-,emergency box,-,1344,1403,6
+1043,toilet,-,toilet,-,1284,1232,6
+1044,elevator,-,elevator,-,1281,1151,6
+1045,ebox,-,emergency box,-,1261,1140,6
+1046,node,-,108-6-SW,-,1322,1399,6
+1047,node,-,108-6-SE,-,1395,1379,6
+1048,node,-,108-6-NW,-,1242,1155,6
+1049,node,-,108-6-NE,-,1313,1132,6
+1050,etc,108-701,Conference Room,-,1241,1037,7
+1051,office,108-701-1,Faculty Office,SRC Admin. Office(Chemistry),1213,1090,7
+1052,office,108-701-2,Faculty Office,Seung Bin Baek,1207,1071,7
+1053,lab,108-701-3,Graduate Students Office,-,1198,1047,7
+1054,office,108-701-4,Faculty Office,Changmo Yang,1191,1023,7
+1055,office,108-701-5,Faculty Office,Hoiri Moon,1183,998,7
+1056,office,108-701-6,Faculty Office,Myoungsoo Lah,1175,979,7
+1057,office,108-701-7,Faculty Office,Wonyoung Choe,1208,997,7
+1058,office,108-701-8,Faculty Office,Jaeheung Cho,1252,986,7
+1059,office,108-701-9,QDC-BRL Office,-,1259,956,7
+1060,office,108-701-10,Faculty Office,Emeritus Professor(PHY),1268,978,7
+1061,office,108-701-11,Office of The Dean College of Natural Science,-,1275,1000,7
+1062,office,108-701-12,Academic & Student Affairs Team College of Natural Science,-,1298,1069,7
+1063,lab,108-707,SRC Research Lab/Biomimetic Catalysis Based on Porous Platform,-,1330,1139,7
+1064,shower,-,shower,-,1339,1170,7
+1065,shower,-,shower,-,1372,1264,7
+1066,lab,108-710,Biomimetic Inorganic-Organic Coordination Chemistry,-,1391,1326,7
+1067,lab,108-709,Physical Chemistry Computer Room,-,1408,1372,7
+1068,shower,-,shower,-,1420,1408,7
+1069,lab,108-708,Physical /Analytical Chemistry Lab.,-,1426,1430,7
+1070,etc,108-702,Core Facility Room,-,1374,1442,7
+1071,lab,108-703,Functional Inorganic Nanomaterials for Energy Lab.,-,1325,1459,7
+1072,shower,-,shower,-,1320,1440,7
+1073,lab,108-704,Laboratory for Sustatinable Future,-,1294,1354,7
+1074,shower,-,shower,-,1260,1250,7
+1075,lab,108-705,Frontier Energy Storage Material Lab./SRC Research Lab,-,1233,1169,7
+1076,shower,-,shower,-,1227,1153,7
+1077,lab,108-706,SRC Facility Room / Biomimetic Catalysis Based on Porous Platform,-,1316,1261,7
+1078,elevator,-,elevator,-,1361,1399,7
+1079,ebox,-,emergency box,-,1344,1403,7
+1080,toilet,-,toilet,-,1284,1232,7
+1081,elevator,-,elevator,-,1281,1151,7
+1082,ebox,-,emergency box,-,1261,1140,7
+1083,node,-,108-7-SW,-,1322,1399,7
+1084,node,-,108-7-SE,-,1395,1379,7
+1085,node,-,108-7-NW,-,1242,1155,7
+1086,node,-,108-7-NE,-,1313,1132,7
+1087,etc,108-801,Conference Room,-,1241,1037,8
+1088,office,108-801-1,-,Keunsu Choi,1213,1090,8
+1089,office,108-801-2,-,Visiting Faculty(MTH),1207,1071,8
+1090,office,108-801-3,Faculty Office,Visiting Faculty(MTH),1198,1047,8
+1091,office,108-801-4,Faculty Office,Geunyoung Jin,1191,1023,8
+1092,office,108-801-5,Faculty Office,Kyoseung Sim,1183,998,8
+1093,office,108-801-6,Faculty Office,Geunsik Lee,1175,979,8
+1094,office,108-801-7,Faculty Office,Taehyuk Kwon,1208,997,8
+1095,office,108-801-8,Faculty Office,Seungkyu Min,1252,986,8
+1096,office,108-801-9,Faculty Office,Yungsam Kim,1259,956,8
+1097,office,108-801-10,Faculty Office,Duyoung Min,1268,978,8
+1098,office,108-801-11,Faculty Office,Byungman Kim,1275,1000,8
+1099,office,108-801-12,Faculty Office,-,1283,1024,8
+1100,lab,108-801-13,Graduate Students Office,-,1290,1048,8
+1101,office,108-801-14,Student Union of Department of Mathematical Sciences,-,1298,1069,8
+1102,lab,108-802,Cold Room,-,1344,1190,8
+1103,lab,108-803,Ultrafast 2D IR Spectroscopy Lab.,-,1360,1234,8
+1104,shower,-,shower,-,1339,1170,8
+1105,lab,108-804,Condensed Matter Electron Transport Lab.,-,1408,1372,8
+1106,lab,108-805,Excited State Phenomena Computation Chemistry Lab.,-,1426,1430,8
+1107,shower,-,shower,-,1372,1264,8
+1108,lab,108-807,NMR Room,-,1374,1442,8
+1109,lab,108-808,Materials Chemistry & Catalysis Lab.,-,1325,1459,8
+1110,shower,-,shower,-,1420,1408,8
+1111,lab,108-809,Energy Recognition,-,1273,1297,8
+1112,lab,108-810,Nano Bio Dynamics Lab.,-,1233,1169,8
+1113,lab,108-811,Graduate Students Office,-,1218,1123,8
+1114,shower,-,shower,-,1320,1440,8
+1115,etc,108-812,Core Facility Room,-,1316,1261,8
+1116,lab,108-813,Organic Soft Electronics and System Lab.,-,1330,1139,8
+1117,shower,-,shower,-,1260,1250,8
+1118,shower,-,shower,-,1227,1153,8
+1119,elevator,-,elevator,-,1361,1399,8
+1120,ebox,-,emergency box,-,1344,1403,8
+1121,toilet,-,toilet,-,1284,1232,8
+1122,elevator,-,elevator,-,1281,1151,8
+1123,ebox,-,emergency box,-,1261,1140,8
+1124,node,-,108-8-SW,-,1322,1399,8
+1125,node,-,108-8-SE,-,1395,1379,8
+1126,node,-,108-8-NW,-,1242,1155,8
+1127,node,-,108-8-NE,-,1313,1132,8
+1128,etc,108-901,Seminar Room,-,1241,1037,9
+1129,lab,108-901-1,Researcher Room,-,1213,1090,9
+1130,office,108-901-2,Visiting Faculty(MTH),-,1207,1071,9
+1131,office,108-901-3,Faculty Office,Kwangsoo Kim,1198,1047,9
+1132,office,108-901-4,Faculty Office,Sungyou Hong,1191,1023,9
+1133,office,108-901-5,Faculty Office,Youngseok Park,1183,998,9
+1134,office,108-901-6,Faculty Office,Jungmin Kee,1175,979,9
+1135,office,108-901-7,Faculty Office,Bongsoo Kim,1208,997,9
+1136,office,108-901-8,Faculty Office,Cheolmin Park,1252,986,9
+1137,office,108-901-9,Faculty Office,Jahyoung Ryu,1259,956,9
+1138,office,108-901-10,Head of Department of Chemistry,-,1268,978,9
+1139,office,108-901-11,Administrative office. Department of Chemistry,-,1275,1000,9
+1140,office,108-901-12,Administrative office. Department of Chemistry,-,1283,1024,9
+1141,lab,108-901-13,Graduate Students Office,-,1290,1048,9
+1142,etc,108-901-14,Student Union of Department of Chemistry,-,1298,1069,9
+1143,lab,108-902,Synthetic Organic Chemistry Lab.,-,1330,1139,9
+1144,shower,-,shower,-,1339,1170,9
+1145,lab,108-911,Synthetic & Medicinal Chemistry Lab.,-,1344,1190,9
+1146,lab,108-903,Synthetic Medicinal Chesmitry Lab.,-,1360,1234,9
+1147,shower,-,shower,-,1372,1264,9
+1148,shower,-,shower,-,1420,1408,9
+1149,lab,108-904,Supramolecular Material Chemistry Lab.,-,1426,1430,9
+1150,lab,108-905,Cell Culture Room & Cold Room,-,1374,1442,9
+1151,lab,108-906,Polymer & Organic Semiconductor Lab.,-,1325,1459,9
+1152,shower,-,shower,-,1320,1440,9
+1153,lab,108-907,Advanced Organic Materials Lab.,-,1294,1354,9
+1154,shower,-,shower,-,1260,1250,9
+1155,lab,108-908,Bioorganic and Chembio Lab.,-,1247,1214,9
+1156,shower,-,shower,-,1227,1153,9
+1157,lab,108-909,Graduate Students Office,-,1218,1123,9
+1158,etc,108-910,Core Facility Room,-,1316,1261,9
+1159,elevator,-,elevator,-,1361,1399,9
+1160,ebox,-,emergency box,-,1344,1403,9
+1161,toilet,-,toilet,-,1284,1232,9
+1162,elevator,-,elevator,-,1281,1151,9
+1163,ebox,-,emergency box,-,1261,1140,9
+1164,node,-,108-9-SW,-,1322,1399,9
+1165,node,-,108-9-SE,-,1395,1379,9
+1166,node,-,108-9-NW,-,1242,1155,9
+1167,node,-,108-9-NE,-,1313,1132,9
+1168,elevator,-,3rd floor customer elevator,-,816,1233,3
+1169,etc,110-301,Meeting Room,-,787,1122,3
+1170,office,110-301-1,Faculty Office,-,773,1151,3
+1171,office,110-301-2,Faculty Office,-,770,1127,3
+1172,office,110-301-3,Faculty Office,-,770,1100,3
+1173,office,110-301-4,Faculty Office,Sangjoon Lee,770,1077,3
+1174,office,110-301-5,Faculty Office,-,770,1051,3
+1175,office,110-301-6,Faculty Office,-,770,1030,3
+1176,office,110-301-7,Faculty Office,Semin Lee,787,1059,3
+1177,office,110-301-8,Faculty Office,Jonghwa Bhak,839,1059,3
+1178,office,110-301-9,Faculty Office,-,855,1032,3
+1179,etc,110-301-10,Reception Room,-,855,1048,3
+1180,etc,110-301-11,Meeting Room,-,855,1080,3
+1181,etc,110-301-12,Genome Korea Office,-,855,1099,3
+1182,office,110-301-13,KDGIC Administration Office,-,855,1119,3
+1183,etc,110-301-14,Storage,-,855,1137,3
+1184,etc,110-301-15,Lounge,-,840,1098,3
+1185,etc,110-301-16,Lounge,-,840,1098,3
+1186,ebox,-,emergency box 1,-,797,1214,3
+1187,ebox,-,emergency box 2,-,799,1493,3
+1188,shower,-,shower 1,-,768,1525,3
+1189,shower,-,shower 2,-,768,1374,3
+1190,shower,-,shower 3,-,768,1225,3
+1191,shower,-,shower 4,-,869,1524,3
+1192,shower,-,shower 5,-,863,1370,3
+1193,shower,-,shower 6,-,861,1219,3
+1194,toilet,-,3rd floor toilet,-,818,1266,3
+1195,lab,110-302,Computational Biology Lab,-,865,1179,3
+1196,etc,110-303,Omics Room,-,866,1275,3
+1197,etc,110-304-1,Sample Bank,-,866,1383,3
+1198,etc,110-304-2,Cell Culture Room/Microscope Room,-,866,1383,3
+1199,etc,110-304-3,Cell Culture Room/Microscope Room,-,866,1383,3
+1200,lab,110-305,Genome Lab,-,870,1498,3
+1201,etc,110-306,Helixco Inc.,-,846,1534,3
+1202,etc,110-307,Clinomics Inc.,-,767,1506,3
+1203,etc,110-308,Clinomics Inc.,-,768,1432,3
+1204,etc,110-309,Recens Medical,-,767,1309,3
+1205,lab,110-310,Viral Immunology Lab,-,767,1241,3
+1206,elevator,-,4th floor customer elevator,-,816,1233,4
+1207,etc,110-401,Meeting Room,-,787,1122,4
+1208,etc,110-401-1,C6 Meeting Room,-,773,1151,4
+1209,office,110-401-2,Faculty Office,-,770,1127,4
+1210,office,110-401-3,Faculty Office,-,770,1100,4
+1211,office,110-401-4,Faculty Office,Sungho Park,770,1077,4
+1212,office,110-401-5,Faculty Office,Youngchan Chae,770,1051,4
+1213,office,110-401-6,Faculty Office,Myunggon Ko,770,1030,4
+1214,office,110-401-7,Faculty Office,Sebyung Kang,787,1059,4
+1215,office,110-401-8,Faculty Office,Byoungheon Kang,839,1059,4
+1216,office,110-401-9,Faculty Office,Chanyoung Park,855,1032,4
+1217,office,110-401-10,Faculty Office,Pannghill Suh,855,1048,4
+1218,office,110-401-11,Faculty Office,Haejin Yoon,855,1080,4
+1219,office,110-401-12,Faculty Office,-,855,1099,4
+1220,office,110-401-13,Faculty Office,-,855,1119,4
+1221,office,110-401-14,Faculty Office,-,855,1137,4
+1222,ebox,-,emergency box 1,-,797,1214,4
+1223,ebox,-,emergency box 2,-,799,1493,4
+1224,shower,-,shower 1,-,768,1525,4
+1225,shower,-,shower 2,-,768,1374,4
+1226,shower,-,shower 3,-,768,1225,4
+1227,shower,-,shower 4,-,869,1524,4
+1228,shower,-,shower 5,-,863,1370,4
+1229,shower,-,shower 6,-,861,1219,4
+1230,toilet,-,4th floor toilet,-,818,1266,4
+1231,lab,110-402,Cancer Biology Lab,-,865,1179,4
+1232,lab,110-403,Molecular Immunology Lab,-,866,1275,4
+1233,lab,110-404,Molecular Immunology Lab,-,866,1383,4
+1234,lab,110-405,Calcium Dynamics Lab,-,870,1498,4
+1235,etc,110-406,Central Equipment Room,-,846,1534,4
+1236,lab,110-407,Protein Nanobio Lab,-,767,1506,4
+1237,etc,110-408,Cellular Energy Metabolism,-,768,1432,4
+1238,lab,110-409,Cancer Therapeutics Research Lab,-,767,1309,4
+1239,etc,110-410,-,-,767,1241,4
+1240,etc,110-411,FACS & SPR Facility,-,767,1241,4
+1241,etc,110-412,Imaging acquisition & E-physics Room,-,767,1241,4
+1242,etc,110-413,Low Temperature Central Equipment Room,-,767,1241,4
+1243,elevator,-,5th floor customer elevator,-,816,1233,5
+1244,etc,110-501,Faculty Conference Room,-,787,1122,5
+1245,office,110-501-1,Faculty Office,-,773,1151,5
+1246,office,110-501-2,Faculty Office,-,770,1127,5
+1247,office,110-501-3,Faculty Office,Eunhee Kim,770,1100,5
+1248,office,110-501-4,Faculty Office,Janghyun Choi,770,1077,5
+1249,office,110-501-5,Faculty Office,-,770,1051,5
+1250,office,110-501-6,Faculty Office,changwook Lee,770,1030,5
+1251,office,110-501-7,Faculty Office,Jiyoung Park,787,1059,5
+1252,office,110-501-8,Faculty Office,Chunghun Lim,839,1059,5
+1253,office,110-501-9,Faculty Office,Hyugmoo Kwon,855,1032,5
+1254,office,110-501-10,Faculty Office,-,855,1048,5
+1255,office,110-501-11,Faculty Office,-,855,1080,5
+1256,office,110-501-12,Faculty Office,-,855,1099,5
+1257,office,110-501-13,Faculty Office,-,855,1119,5
+1258,office,110-501-14,Faculty Office,-,855,1137,5
+1259,ebox,-,emergency box 1,-,797,1214,5
+1260,ebox,-,emergency box 2,-,799,1493,5
+1261,shower,-,shower 1,-,768,1525,5
+1262,shower,-,shower 2,-,768,1374,5
+1263,shower,-,shower 3,-,768,1225,5
+1264,shower,-,shower 4,-,869,1524,5
+1265,shower,-,shower 5,-,863,1370,5
+1266,shower,-,shower 6,-,861,1219,5
+1267,toilet,-,5th floor toilet,-,818,1266,5
+1268,lab,110-502,Structural Biology and Cellular Biochemistry Lab,-,865,1179,5
+1269,lab,110-503,Molecular Oncology Lab,-,866,1275,5
+1270,lab,110-504,SRC Lab,-,866,1383,5
+1271,lab,110-505,Neurogenetics and Ribonomics Lab,-,870,1498,5
+1272,etc,110-506,Low Temperature Central Equipment Room,-,846,1534,5
+1273,lab,110-507,Molecular Metabolism Lab,-,767,1506,5
+1274,lab,110-508,Diabetes and Metabolism Lab,-,768,1432,5
+1275,lab,110-509,Immunometabolism and Cancer Lab,-,767,1309,5
+1276,classroom,110-510,Lecture Room,-,767,1241,5
+1277,etc,110-511,Central Equipment Room,-,844,1338,5
+1278,etc,110-512,Central Equipment Room,-,844,1385,5
+1279,elevator,-,6th floor customer elevator,-,816,1233,6
+1280,etc,110-601,Student Lounge,-,787,1122,6
+1281,office,110-601-1,Faculty Office,-,773,1151,6
+1282,office,110-601-2,Faculty Office,-,770,1127,6
+1283,office,110-601-3,Faculty Office,-,770,1100,6
+1284,office,110-601-4,Faculty Office,-,770,1077,6
+1285,office,110-601-5,Faculty Office,Jaeick Kim,770,1051,6
+1286,office,110-601-6,Faculty Office,Jayil Lee,770,1030,6
+1287,office,110-601-7,Faculty Office,Dougu Nam,787,1059,6
+1288,office,110-601-8,Faculty Office,-,839,1059,6
+1289,office,110-601-9,Faculty Office,Robert J. Mitchell,855,1032,6
+1290,office,110-601-10,Faculty Office,-,855,1048,6
+1291,office,110-601-11,Faculty Office,-,855,1080,6
+1292,office,110-601-12,Faculty Office,-,855,1137,6
+1293,ebox,-,emergency box 1,-,797,1214,6
+1294,ebox,-,emergency box 2,-,799,1493,6
+1295,shower,-,shower 1,-,768,1525,6
+1296,shower,-,shower 2,-,768,1374,6
+1297,shower,-,shower 3,-,768,1225,6
+1298,shower,-,shower 4,-,869,1524,6
+1299,shower,-,shower 5,-,863,1370,6
+1300,shower,-,shower 6,-,861,1219,6
+1301,toilet,-,6th floor toilet,-,818,1266,6
+1302,lab,110-602,Applied & Environmental Microbiology Lab,-,865,1179,6
+1303,lab,110-603,Bioinformatics Lab,-,866,1275,6
+1304,lab,110-604,Neural Circuit and Neurodegenerative Disease Lab,-,866,1383,6
+1305,lab,110-605,Biochemistry and Molecular Biophysics Lab,-,870,1498,6
+1306,lab,110-606,UOBC,-,846,1534,6
+1307,lab,110-607,Biomedical Instrumentation Lab,-,767,1506,6
+1308,lab,110-608,BME Senior Design Lab,-,768,1432,6
+1309,lab,110-609,Undergraduate Biological Science Lab,-,767,1309,6
+1310,lab,110-610,Graduate Students Office,-,844,1338,6
+1311,etc,110-611,Central Equipment Room,-,844,1385,6
+1312,elevator,-,7th floor customer elevator,-,816,1233,7
+1313,etc,110-701,Faculty Conference Room,-,787,1122,7
+1314,office,110-701-1,Faculty Office,-,773,1151,7
+1315,office,110-701-2,Faculty Office,-,770,1127,7
+1316,office,110-701-3,Faculty Office,Joonmo Yang,770,1100,7
+1317,office,110-701-4,Faculty Office,Taejoo Park,770,1077,7
+1318,office,110-701-5,Faculty Office,Junghoon Park,770,1051,7
+1319,office,110-701-6,Faculty Office,Sungchul Bae,770,1030,7
+1320,office,110-701-7,Faculty Office,Hajin Kim,787,1059,7
+1321,office,110-701-8,Faculty Office,Taejoon Kwon,839,1059,7
+1322,office,110-701-9,Faculty Office,Woonggyu Jung,855,1032,7
+1323,office,110-701-10,Faculty Office,-,855,1048,7
+1324,office,110-701-11,Faculty Office,-,855,1080,7
+1325,office,110-701-12,Faculty Office,-,855,1099,7
+1326,office,110-701-13,Faculty Office,-,855,1119,7
+1327,office,110-701-14,Faculty Office,-,855,1137,7
+1328,ebox,-,emergency box 1,-,797,1214,7
+1329,ebox,-,emergency box 2,-,799,1493,7
+1330,shower,-,shower 1,-,768,1525,7
+1331,shower,-,shower 2,-,768,1374,7
+1332,shower,-,shower 3,-,768,1225,7
+1333,shower,-,shower 4,-,869,1524,7
+1334,shower,-,shower 5,-,863,1370,7
+1335,shower,-,shower 6,-,861,1219,7
+1336,toilet,-,7th floor toilet,-,818,1266,7
+1337,etc,110-702,Single Molecule Biophysics Group,-,865,1179,7
+1338,lab,110-703,Laser Applications in Biomedical Engineering Lab,-,866,1275,7
+1339,lab,110-704,Developmental Morphogenesis Lab,-,866,1383,7
+1340,lab,110-705,Taejoon Lab,-,870,1498,7
+1341,etc,110-706,Central Equipment Room,-,846,1534,7
+1342,lab,110-707,Medical Device and System Lab,-,767,1506,7
+1343,lab,110-708,Bio-Optics Lab,-,768,1432,7
+1344,lab,110-709,Translational Biophotonics Lab,-,767,1309,7
+1345,classroom,110-710,Lecture Room,-,767,1241,7
+1346,etc,110-711-1,Optics Room,-,845,1338,7
+1347,etc,110-711-2,Optics Room,-,845,1338,7
+1348,etc,110-711-3,Optics Room,-,845,1338,7
+1349,etc,110-711-4,Optics Room,-,845,1338,7
+1350,elevator,-,8th floor customer elevator,-,816,1233,8
+1351,etc,110-801,Faculty Conference Room,-,787,1122,8
+1352,office,110-801-1,Faculty Office,-,773,1151,8
+1353,office,110-801-2,Faculty Office,-,770,1127,8
+1354,office,110-801-3,Faculty Office,-,770,1100,8
+1355,office,110-801-4,Faculty Office,-,770,1077,8
+1356,office,110-801-5,Faculty Office,Yungdoug Suh,770,1051,8
+1357,office,110-801-6,Faculty Office,Jinmyoung Joo,770,1030,8
+1358,office,110-801-7,Faculty Office,Seungwoo Cho,787,1059,8
+1359,office,110-801-8,Faculty Office,-,839,1059,8
+1360,office,110-801-9,Faculty Office,Yoonkyoung Cho,855,1032,8
+1361,office,110-801-10,Faculty Office,Joohun Kang,855,1048,8
+1362,office,110-801-11,Faculty Office,Taeeun Park,855,1080,8
+1363,office,110-801-12,Faculty Office,Kyemyung Park,855,1099,8
+1364,office,110-801-13,Faculty Office,Youngbin Choi,855,1119,8
+1365,office,110-801-14,Faculty Office,-,855,1137,8
+1366,etc,110-801-15,Faculty Lounge,-,840,1098,8
+1367,ebox,-,emergency box 1,-,797,1214,8
+1368,ebox,-,emergency box 2,-,799,1493,8
+1369,shower,-,shower 1,-,768,1525,8
+1370,shower,-,shower 2,-,768,1374,8
+1371,shower,-,shower 3,-,768,1225,8
+1372,shower,-,shower 4,-,869,1524,8
+1373,shower,-,shower 5,-,863,1370,8
+1374,shower,-,shower 6,-,861,1219,8
+1375,toilet,-,8th floor toilet,-,818,1266,8
+1376,lab,110-802,Biomaterials & Translational Medicine Lab,-,865,1179,8
+1377,lab,110-803,Genome Engineering Lab,-,866,1275,8
+1378,lab,110-804,Translational Multiscale Biofluidics Lab,-,866,1383,8
+1379,lab,110-805,Micro Tissue Engineering & Nanomedicine Lab,-,870,1498,8
+1380,etc,110-806,Central Equipment Room 1,-,846,1534,8
+1381,lab,110-807,LAMP,-,767,1506,8
+1382,lab,110-808,Neural Interfaces & Semiconductor Optoelectronics Lab,-,768,1432,8
+1383,lab,110-809,Systems ImmunoDynamics Lab,-,767,1310,8
+1384,etc,110-810,-,-,765,1242,8
+1385,classroom,110-811,Lecture Room,-,764,1181,8
+1386,etc,110-812,Central Equipment Room 2,-,844,1338,8
+1387,elevator,-,9th floor customer elevator,-,816,1233,9
+1388,etc,110-901,Faculty Conference Room,-,787,1122,9
+1389,office,110-901-1,Faculty Office,-,773,1151,9
+1390,office,110-901-2,Faculty Office,-,770,1127,9
+1391,office,110-901-3,Faculty Office,-,770,1100,9
+1392,office,110-901-4,Faculty Office,-,770,1077,9
+1393,office,110-901-5,Faculty Office,Byungmin Kim,770,1051,9
+1394,office,110-901-6,Faculty Office,Sukhoon Pyo,770,1030,9
+1395,office,110-901-7,Faculty Office,Jaeeun Oh,787,1059,9
+1396,office,110-901-8,Faculty Office,Gun Kim,839,1059,9
+1397,office,110-901-9,Faculty Office,Myoungsu Shin,855,1032,9
+1398,office,110-901-10,Faculty Office,Youngjoo Lee,855,1048,9
+1399,office,110-901-11,Faculty Office,-,855,1080,9
+1400,office,110-901-12,UEE Administrative Office,-,855,1135,9
+1401,ebox,-,emergency box 1,-,797,1214,9
+1402,ebox,-,emergency box 2,-,799,1493,9
+1403,shower,-,shower 1,-,768,1525,9
+1404,shower,-,shower 2,-,768,1374,9
+1405,shower,-,shower 3,-,768,1225,9
+1406,shower,-,shower 4,-,869,1524,9
+1407,shower,-,shower 5,-,863,1370,9
+1408,shower,-,shower 6,-,861,1219,9
+1409,toilet,-,9th floor toilet,-,818,1266,9
+1410,lab,110-902-1,Sustainable Structural System & Materials Lab,-,863,1179,9
+1411,lab,110-902-2,Nano-AIMS Lab,-,863,1179,9
+1412,lab,110-903-1,Smart Materials and Intelligent Structures Lab,-,867,1275,9
+1413,lab,110-903-2,SRDR Lab,-,867,1275,9
+1414,lab,110-903-3,R2A Lab,-,867,1275,9
+1415,lab,110-904,Nano-AIMS Structural Materials Lab,-,868,1383,9
+1416,lab,110-905-1,Structural Reliability & Disaster Risk Lab,-,870,1498,9
+1417,lab,110-905-2,IMCT Lab,-,870,1498,9
+1418,lab,110-906,Sustainable Structural System & Materials Lab,-,872,1539,9
+1419,classroom,110-907,Graduate School Lecture Room,-,847,1535,9
+1420,lab,110-908,UOBC,-,767,1432,9
+1421,etc,110-909,Heatwave Research Center,-,843,1339,9
+1422,lab,110-910-1,Laboratory,-,767,1312,9
+1423,lab,110-910-2,Reliability & Risk Assessment Lab,-,767,1312,9
+1424,lab,110-910-3,Science Walden,-,767,1312,9
+1425,lab,110-911-1,Geotechnical Earthquake Engineering Research Lab,-,764,1182,9
+1426,lab,110-911-2,Smart Materials and Intelligent Structures Lab,-,764,1182,9
+1427,elevator,-,10th floor customer elevator,-,816,1233,10
+1428,etc,110-1001,Faculty Conference Room,-,787,1122,10
+1429,office,110-1001-1,Faculty Office,-,773,1151,10
+1430,office,110-1001-2,Faculty Office,-,770,1127,10
+1431,office,110-1001-3,Faculty Office,Changkeun Song,770,1100,10
+1432,office,110-1001-4,Faculty Office,Jeongseob Kim,770,1077,10
+1433,office,110-1001-5,Faculty Office,GiHyoug Cho,770,1051,10
+1434,office,110-1001-6,Faculty Office,Jibum Chung,770,1030,10
+1435,office,110-1001-7,Faculty Office,Sarah Kang,787,1059,10
+1436,office,110-1001-8,Faculty Office,Jungho Im,839,1059,10
+1437,office,110-1001-9,Faculty Office,Myoungin Lee,855,1032,10
+1438,office,110-1001-10,Faculty Office,Sangseo Park,855,1048,10
+1439,office,110-1001-11,Faculty Office,Donghyun Cha,855,1080,10
+1440,office,110-1001-12,Faculty Office,-,855,1099,10
+1441,office,110-1001-13,Faculty Office,-,855,1119,10
+1442,office,110-1001-14,Researcher Administrative Office,-,855,1137,10
+1443,ebox,-,emergency box 1,-,797,1214,10
+1444,ebox,-,emergency box 2,-,799,1493,10
+1445,shower,-,shower 1,-,768,1525,10
+1446,shower,-,shower 2,-,768,1374,10
+1447,shower,-,shower 3,-,768,1225,10
+1448,shower,-,shower 4,-,869,1524,10
+1449,shower,-,shower 5,-,863,1370,10
+1450,shower,-,shower 6,-,861,1219,10
+1451,toilet,-,10th floor toilet,-,818,1266,10
+1452,lab,110-1002,Climate & Environmental Measurements Lab,-,865,1179,10
+1453,lab,110-1003-1,IRIS Lab,-,865,1231,10
+1454,lab,110-1003-2,Climate Environment Modeling Lab,-,865,1231,10
+1455,lab,110-1004,Geotechnical Earthquake Engineering Research Lab,-,865,1336,10
+1456,etc,110-1005,-,-,865,1382,10
+1457,etc,110-1006,Server Room,-,865,1382,10
+1458,etc,110-1007,Image Seminar Room,-,865,1431,10
+1459,lab,110-1008-1,High-impact Weather Prediction Lab,-,865,1498,10
+1460,lab,110-1008-2,Climate Dynamics Lab,-,865,1498,10
+1461,classroom,110-1009,Graduate School Lecture Room,-,847,1535,10
+1462,lab,110-1010-1,Environmental Monitoring & Modeling Lab,-,771,1536,10
+1463,etc,110-1010-2,-,-,771,1536,10
+1464,etc,110-1011,Urban and Disaster Engineering Equipment Room,-,771,1431,10
+1465,etc,110-1012,Student Lounge,-,771,1382,10
+1466,lab,110-1013-1,Sustainable Urban Planning & Design Lab,-,771,1336,10
+1467,lab,110-1013-2,Urban Planning and Analytics Lab,-,771,1336,10
+1468,lab,110-1013-3,Risk Management Policy & Safety Design Lab,-,771,1336,10
+1469,etc,110-1014,Design Studio & UEE Hall,-,771,1179,10
+1470,lab,110-1015,Computer Lab,-,845,1337,10
+1471,elevator,-,11th floor customer elevator,-,816,1233,11
+1472,etc,110-1101,Faculty Conference Room,-,787,1122,11
+1473,office,110-1101-1,Faculty Office,-,773,1151,11
+1474,office,110-1101-2,Faculty Office,-,770,1127,11
+1475,office,110-1101-3,Faculty Office,-,770,1100,11
+1476,office,110-1101-4,Faculty Office,Jaeweon Cho,770,1077,11
+1477,office,110-1101-5,Faculty Office,Yoonseok Chang,770,1051,11
+1478,office,110-1101-6,Faculty Office,Youngnam Kwon,770,1030,11
+1479,office,110-1101-7,Faculty Office,SungDeuk Choi,787,1059,11
+1480,office,110-1101-8,Faculty Office,Changsoo Lee,839,1059,11
+1481,office,110-1101-9,Faculty Office,Hyokwan Bae,855,1032,11
+1482,office,110-1101-10,Faculty Office,Yongwon Seo,855,1048,11
+1483,office,110-1101-11,Faculty Office,Kwiyong Kim,855,1080,11
+1484,office,110-1101-12,Faculty Office,-,855,1099,11
+1485,office,110-1101-13,Faculty Office,-,855,1119,11
+1486,office,110-1101-14,Faculty Office,-,855,1137,11
+1487,ebox,-,emergency box 1,-,797,1214,11
+1488,ebox,-,emergency box 2,-,799,1493,11
+1489,shower,-,shower 1,-,768,1525,11
+1490,shower,-,shower 2,-,768,1374,11
+1491,shower,-,shower 3,-,768,1225,11
+1492,shower,-,shower 4,-,869,1524,11
+1493,shower,-,shower 5,-,863,1370,11
+1494,shower,-,shower 6,-,861,1219,11
+1495,toilet,-,11th floor toilet,-,818,1266,11
+1496,lab,110-1102,Graduate Students Office,-,864,1179,11
+1497,lab,110-1103,Undergraduate Lab,-,864,1231,11
+1498,lab,110-1104-1,Advanced Clean Energy Lab,-,864,1432,11
+1499,lab,110-1104-2,ART Lab,-,864,1432,11
+1500,lab,110-1104-3,Applied Biotechnology Lab for Environment,-,864,1432,11
+1501,classroom,110-1105,Graduate School Lecture Room,-,847,1534,11
+1502,lab,110-1106,EACL Pretreatment Lab,-,771,1536,11
+1503,lab,110-1107-1,EACL Pretreatment Lab,-,771,1536,11
+1504,lab,110-1107-2,Organic-Interface Engineering Lab,-,768,1432,11
+1505,lab,110-1107-3,SMART Lab,-,767,1309,11
+1506,lab,110-1108,Graduate Students Office,-,767,1241,11
+1507,lab,110-1109,Graduate Students Office,-,767,1182,11
+1508,etc,110-1110,Common Research Facilities,-,845,1387,11
+1509,node,-,110-3-SW,-,779,1413,3
+1510,node,-,110-3-NW,-,779,1214,3
+1511,node,-,110-3-SE,-,855,1408,3
+1512,node,-,110-3-NE,-,848,1215,3
+1513,node,-,110-4-SW,-,779,1413,4
+1514,node,-,110-4-NW,-,779,1214,4
+1515,node,-,110-4-SE,-,855,1408,4
+1516,node,-,110-4-NE,-,848,1215,4
+1517,node,-,110-5-SW,-,779,1413,5
+1518,node,-,110-5-NW,-,779,1214,5
+1519,node,-,110-5-SE,-,855,1408,5
+1520,node,-,110-5-NE,-,848,1215,5
+1521,node,-,110-6-SW,-,779,1413,6
+1522,node,-,110-6-NW,-,779,1214,6
+1523,node,-,110-6-SE,-,855,1408,6
+1524,node,-,110-6-NE,-,848,1215,6
+1525,node,-,110-7-SW,-,779,1413,7
+1526,node,-,110-7-NW,-,779,1214,7
+1527,node,-,110-7-SE,-,855,1408,7
+1528,node,-,110-7-NE,-,848,1215,7
+1529,node,-,110-8-SW,-,779,1413,8
+1530,node,-,110-8-NW,-,779,1214,8
+1531,node,-,110-8-SE,-,855,1408,8
+1532,node,-,110-8-NE,-,848,1215,8
+1533,node,-,110-9-SW,-,779,1413,9
+1534,node,-,110-9-NW,-,779,1214,9
+1535,node,-,110-9-SE,-,855,1408,9
+1536,node,-,110-9-NE,-,848,1215,9
+1537,node,-,110-10-SW,-,779,1413,10
+1538,node,-,110-10-NW,-,779,1214,10
+1539,node,-,110-10-SE,-,855,1408,10
+1540,node,-,110-10-NE,-,848,1215,10
+1541,node,-,110-11-SW,-,779,1413,11
+1542,node,-,110-11-NW,-,779,1214,11
+1543,node,-,110-11-SE,-,855,1408,11
+1544,node,-,110-11-NE,-,848,1215,11
+1545,etc,112-301,Conference Room,-,407,1080,3
+1546,office,112-301-1,IE Office,-,321,1098,3
+1547,lab,112-301-2,gunslab,-,334,1072,3
+1548,lab,112-301-3,gunslab,-,340,1044,3
+1549,office,112-301-4,Faculty Office,Guntae Kim,343,1022,3
+1550,office,112-301-5,Faculty Office,Sang Jin Kweon,359,995,3
+1551,office,112-301-6,Faculty Office,Kyung A Son,362,967,3
+1552,office,112-301-7,Faculty Office,Yongjae Lee,378,1002,3
+1553,office,112-301-8,Faculty Office,Sungil Kim,423,1013,3
+1554,office,112-301-9,Faculty Office,Marco Comuzzi,450,1001,3
+1555,office,112-301-10,Faculty Office,Sunghoon Lim,442,1022,3
+1556,office,112-301-11,Faculty Office,Chiehyeon Lim,433,1055,3
+1557,office,112-301-12,Faculty Office,Junghye Lee,430,1073,3
+1558,office,112-301-13,Faculty Office,Gi-Soo Kim,418,1106,3
+1559,office,112-301-14,Faculty Office,Dongyoung Lim,408,1124,3
+1560,lab,112-302-1,IE LAB,-,407,1150,3
+1561,lab,112-302-2,IE LAB,-,400,1176,3
+1562,lab,112-302-3,IE LAB,-,392,1203,3
+1563,lab,112-302-4,IE LAB,-,384,1229,3
+1564,lab,112-302-5,IE LAB,-,377,1256,3
+1565,lab,112-302-6,IE LAB,-,364,1293,3
+1566,lab,112-302-7,IE LAB,-,351,1343,3
+1567,lab,112-302-8,IE LAB,-,341,1375,3
+1568,lab,112-302-9,IE LAB,-,332,1408,3
+1569,lab,112-302-10,IE LAB,-,323,1441,3
+1570,lab,112-302-11,Environmental Radiation Pretreatment Lab,-,306,1499,3
+1571,lab,112-303,Nuclear D&D Lab,-,266,1511,3
+1572,elevator,-,elevator,-,267,1432,3
+1573,elevator,-,elevator,-,344,1178,3
+1574,ebox,-,emergency box,-,278,1449,3
+1575,ebox,-,emergency box,-,360,1183,3
+1576,toilet,-,toilet,-,324,1248,3
+1577,shower,-,shower,-,211,1432,3
+1578,shower,-,shower,-,260,1284,3
+1579,shower,-,shower,-,296,1161,3
+1580,shower,-,shower,-,312,1462,3
+1581,shower,-,shower,-,358,1315,3
+1582,shower,-,shower,-,397,1194,3
+1583,etc,112-401,Faculty Conference Room,-,407,1080,4
+1584,etc,112-401-1,Student Council Room,-,321,1098,4
+1585,etc,112-401-2,Female Staff lounge,-,334,1072,4
+1586,office,112-401-6,Faculty Office,Juha Kim,362,967,4
+1587,office,112-401-7,Faculty Office,Jahwa Lee,378,1002,4
+1588,office,112-401-9,Faculty Office,Jasun Lee,450,1001,4
+1589,etc,112-401-11,Archive Room,-,433,1055,4
+1590,office,112-401-12,"Administrative Office / School of Mechanical, Aerospace and Nuclear Engineering",-,430,1073,4
+1591,office,112-401-13,"Administrative Office / School of Mechanical, Aerospace and Nuclear Engineering",-,418,1106,4
+1592,office,112-401-14,"Administrative Office / School of Mechanical, Aerospace and Nuclear Engineering",-,408,1124,4
+1593,office,112-403,Graduate students Office,-,266,1511,4
+1594,etc,112-404,Computer Lab,-,214,1407,4
+1595,lab,112-405,Fluid-Based Convergence Lab,-,249,1316,4
+1596,lab,112-407,Innovative Thermal Engineering Lab,-,289,1174,4
+1597,lab,112-408,Graduate students Office,-,306,1121,4
+1598,class room,112-409,Lecture Room,-,321,1343,4
+1599,elevator,-,elevator,-,267,1432,4
+1600,elevator,-,elevator,-,344,1178,4
+1601,ebox,-,emergency box,-,278,1449,4
+1602,ebox,-,emergency box,-,360,1183,4
+1603,toilet,-,toilet,-,324,1248,4
+1604,shower,-,shower,-,211,1432,4
+1605,shower,-,shower,-,260,1284,4
+1606,shower,-,shower,-,296,1161,4
+1607,shower,-,shower,-,312,1462,4
+1608,shower,-,shower,-,358,1315,4
+1609,shower,-,shower,-,397,1194,4
+1610,office,112-501-3,Faculty Office,Hee Reyoung Kim,340,1044,5
+1611,office,112-501-5,Faculty Office,Seung Jun Lee,359,995,5
+1612,office,112-501-6,Faculty Office,Deok jung Lee,362,967,5
+1613,office,112-501-7,Faculty Office,Sang joon Ahn,378,1002,5
+1614,office,112-501-9,Faculty Office,In Cheol Bang,450,1001,5
+1615,office,112-501-10,Faculty Office,Ji Hyun Kim,442,1022,5
+1616,office,112-501-11,Faculty Office,Jae yeong Park,433,1055,5
+1617,office,112-501-12,Faculty Office,Ei sung Yoon,430,1073,5
+1618,office,112-501-13,Faculty Office,Douglas A. Fynan,418,1106,5
+1619,office,112-501-14,Faculty Office,Ji min Lee,408,1124,5
+1620,lab,112-506,UNIST Nuclear Innovative Materials,-,332,1408,5
+1621,lab,112-507,Nuclear Thermal Hydraulics and Reactor Safety Lab,-,306,1499,5
+1622,lab,112-509,Radiation and Magnetohydrodynamics Advanced Lab,-,200,1466,5
+1623,lab,112-504,Nuclear Safety Assessment and Plant HMI Evolution Lab,-,364,1293,5
+1624,lab,112-511,UNIST Radioactive Nuclear Materials Laboratory,-,407,1080,5
+1625,lab,112-502,Fussion and Plasma Application Research Lab,-,407,1150,5
+1626,lab,112-503,Fussion and Plasma Application Research Lab,-,392,1203,5
+1627,lab,112-512,Fual Cycles and Waste Lab,-,265,1261,5
+1628,lab,112-505,Radiation & Medical Intelligence Lab,-,351,1343,5
+1629,elevator,-,elevator,-,267,1432,5
+1630,elevator,-,elevator,-,344,1178,5
+1631,ebox,-,emergency box,-,278,1449,5
+1632,ebox,-,emergency box,-,360,1183,5
+1633,toilet,-,toilet,-,324,1248,5
+1634,shower,-,shower,-,211,1432,5
+1635,shower,-,shower,-,260,1284,5
+1636,shower,-,shower,-,296,1161,5
+1637,shower,-,shower,-,312,1462,5
+1638,shower,-,shower,-,358,1315,5
+1639,shower,-,shower,-,397,1194,5
+1640,class room,112-601,Graduate School Lecture Room,-,407,1080,6
+1641,office,112-601-1,Researcher Administrative Office,-,321,1098,6
+1642,office,112-601-14,Researcher Administrative Office,-,408,1124,6
+1643,office,112-601-4,Faculty Office,Aejung Yoon,343,1022,6
+1644,office,112-601-5,Faculty Office,Im Doo Jung,359,995,6
+1645,office,112-601-6,Faculty Office,Hyung Wook Park,362,967,6
+1646,office,112-601-9,Faculty Office,Heong Joo Park,450,1001,6
+1647,office,112-601-10,Faculty Office,Young-Bin Park,442,1022,6
+1648,office,112-601-11,Faculty Office,Namhun Kim,433,1055,6
+1649,office,112-601-13,Faculty Office,Sang Hoon Kang,418,1106,6
+1650,lab,112-602,"Mechanical, Aerospace Engineering Lab",-,400,1176,6
+1651,lab,112-603,Nuclear Engineering Lab,-,392,1203,6
+1652,lab,112-605,Graduate Students Office,-,266,1511,6
+1653,lab,112-606,Functional Intelligent Materials Lab,-,200,1740,6
+1654,lab,112-607,Composite Materials and Structures Lab,-,238,1372,6
+1655,lab,112-608,Multiscale Hybrid Manufacturing Lab,-,249,1316,6
+1656,lab,112-609,Flow Physics and Control lab,-,265,1261,6
+1657,lab,112-610,Graduate Students Office,-,289,1174,6
+1658,lab,112-611,Graduate Students Office,-,306,1121,6
+1659,class room,112-612,Seminar Room,-,321,1343,6
+1660,elevator,-,elevator,-,267,1432,6
+1661,elevator,-,elevator,-,344,1178,6
+1662,ebox,-,emergency box,-,278,1449,6
+1663,ebox,-,emergency box,-,360,1183,6
+1664,toilet,-,toilet,-,324,1248,6
+1665,shower,-,shower,-,211,1432,6
+1666,shower,-,shower,-,260,1284,6
+1667,shower,-,shower,-,296,1161,6
+1668,shower,-,shower,-,312,1462,6
+1669,shower,-,shower,-,358,1315,6
+1670,shower,-,shower,-,397,1194,6
+1671,class room,112-701,Graduate School Lecture Room,-,407,1080,7
+1672,office,112-701-1,Researcher Administrative Office,-,321,1098,7
+1673,office,112-701-4,Faculty Office,Chulhyeon Kwon,343,1022,7
+1674,office,112-701-5,Faculty Office,Hooneui Jeong,359,995,7
+1675,office,112-701-6,Faculty Office,HeungJoo Shin,362,967,7
+1676,office,112-701-7,Faculty Office,Hyungsun Ki,378,1002,7
+1677,office,112-701-8,Faculty Office,Choonsang Yu,423,1013,7
+1678,office,112-701-9,Faculty Office,Taesung Kim,450,1001,7
+1679,office,112-701-10,Faculty Office,Jaesung Jang,442,1022,7
+1680,lab,112-703,Microfluidics and Nanomechatronics Lab,-,351,1343,7
+1681,lab,112-705,Sensors & Aerosols Lab,-,306,1499,7
+1682,lab,112-706,Graduate Students Office,-,266,1511,7
+1683,lab,112-707,Multiscale Biomimetics and Manufacturing Lab,-,200,1466,7
+1684,lab,112-708,SoftHeat Group - thermal physics in soft matter,-,238,1372,7
+1685,lab,112-709,Micro/Nano Integrated Systems Lab,-,249,1316,7
+1686,lab,112-710,Laser Processing & Multiphysics Systems Lab,-,265,1261,7
+1687,lab,112-711,Graduate Students Office,-,289,1174,7
+1688,lab,112-712,Combustion & Propulsion Lab,-,306,1121,7
+1689,etc,112-713,Seminar Room,-,321,1343,7
+1690,elevator,-,elevator,-,267,1432,7
+1691,elevator,-,elevator,-,344,1178,7
+1692,ebox,-,emergency box,-,278,1449,7
+1693,ebox,-,emergency box,-,360,1183,7
+1694,toilet,-,toilet,-,324,1248,7
+1695,shower,-,shower,-,211,1432,7
+1696,shower,-,shower,-,260,1284,7
+1697,shower,-,shower,-,296,1161,7
+1698,shower,-,shower,-,312,1462,7
+1699,shower,-,shower,-,358,1315,7
+1700,shower,-,shower,-,397,1194,7
+1701,etc,112-801,Video Conference Room,-,407,1080,8
+1702,office,112-801-1,Researcher Administrative Office,-,321,1098,8
+1703,office,112-801-4,Faculty Office,Hyundong Oh,343,1022,8
+1704,office,112-801-6,Faculty Office,Sungyeop Kim,362,967,8
+1705,office,112-801-7,Faculty Office,Heungsun Son,378,1002,8
+1706,office,112-801-9,Faculty Office,Joonbum Bae,450,1001,8
+1707,office,112-801-10,Faculty Office,Woosuk Ji,442,1022,8
+1708,office,112-801-11,Faculty Office,Joohwan Oh,433,1055,8
+1709,office,112-801-12,Faculty Office,Hayoung Chung,430,1073,8
+1710,etc,112-801-14,Lounge,-,408,1124,8
+1711,lab,112-802,Computational Advanced Nanomechanics Lab,-,407,1150,8
+1712,lab,112-804,Graduate Students Office,-,364,1293,8
+1713,lab,112-806,Cooling Technology Lab,-,332,1408,8
+1714,lab,112-807,"Wave, Acoustics and Vibration Lab",-,306,1499,8
+1715,lab,112-808,Graduate Students Office,-,266,1511,8
+1716,lab,112-809,Electromechanical Systems and Control Lab,-,200,1466,8
+1717,lab,112-810,Autonomous Systems Lab,-,238,1372,8
+1718,lab,112-811,Bio-Robotics and Control Lab,-,249,1316,8
+1719,lab,112-813,Graduate Students Office,-,289,1174,8
+1720,lab,112-814,Graduate Students Office,-,306,1121,8
+1721,etc,112-815,Seminar Room,-,321,1343,8
+1722,elevator,-,elevator,-,267,1432,8
+1723,elevator,-,elevator,-,344,1178,8
+1724,ebox,-,emergency box,-,278,1449,8
+1725,ebox,-,emergency box,-,360,1183,8
+1726,toilet,-,toilet,-,324,1248,8
+1727,shower,-,shower,-,211,1432,8
+1728,shower,-,shower,-,260,1284,8
+1729,shower,-,shower,-,296,1161,8
+1730,shower,-,shower,-,312,1462,8
+1731,shower,-,shower,-,358,1315,8
+1732,shower,-,shower,-,397,1194,8
+1733,node,-,112-3-NE,-,381,1187,3
+1734,node,-,112-3-SE,-,301,1443,3
+1735,node,-,112-3-SW,-,233,1427,3
+1736,node,-,112-3-NW,-,309,1169,3
+1737,node,-,112-4-NE,-,381,1187,4
+1738,node,-,112-4-SE,-,301,1443,4
+1739,node,-,112-4-SW,-,233,1427,4
+1740,node,-,112-4-NW,-,309,1169,4
+1741,node,-,112-5-NE,-,381,1187,5
+1742,node,-,112-5-SE,-,301,1443,5
+1743,node,-,112-5-SW,-,233,1427,5
+1744,node,-,112-5-NW,-,309,1169,5
+1745,node,-,112-6-NE,-,381,1187,6
+1746,node,-,112-6-SE,-,301,1443,6
+1747,node,-,112-6-SW,-,233,1427,6
+1748,node,-,112-6-NW,-,309,1169,6
+1749,node,-,112-7-NE,-,381,1187,7
+1750,node,-,112-7-SE,-,301,1443,7
+1751,node,-,112-7-SW,-,233,1427,7
+1752,node,-,112-7-NW,-,309,1169,7
+1753,node,-,112-8-NE,-,381,1187,8
+1754,node,-,112-8-SE,-,301,1443,8
+1755,node,-,112-8-SW,-,233,1427,8
+1756,node,-,112-8-NW,-,309,1169,8
+1757,stair,-,106 stair 2,-,1671,1043,2
